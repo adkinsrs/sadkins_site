@@ -4,13 +4,12 @@ body {
     font-family: Arial, Helvetica, sans-serif;     
 }
 
-#whole {
-    width: 80%;
-    margin: 0 auto;
-    line-height:1.5;
+/* To support HTML5 elements in Internet Explorer 8 */
+header, section, footer, aside, nav, main, article, figure {
+    display: block; 
 }
 
-#footer {
+footer {
     font-size: 12px;
 }
 
@@ -20,8 +19,8 @@ h1, h3 {
     font-style: italic;
 }
 
-#menu_container {
-    text-align: center;
+nav {
+    text-align: left;
 }
 
 ul {
@@ -35,7 +34,28 @@ ol {
 }
 
 img {
-    width:33%;
+    width: 33%;
+}
+
+aside {
+    float: left;
+    text-align: left;    
+    line-height: 30px;
+    width: 20%;
+    margin-left: 5%;
+}
+
+section {
+    width: 50%;
+    float: left;
+    text-align: left;    
+}
+
+footer {
+    width: 50%;
+    margin-left: 25%;
+    clear: both;
+    text-align: left;
 }
 
 .navmenu {
@@ -63,7 +83,13 @@ img {
     color: #FFFFFF;
 }
 
-.general_link, .general_link:visited {
+.links {
+    text-decoration: none;
+    color: #AA6C39;
+}
+
+.site_name {
+    text-decoration: none;
     color: #AA9739;
 }
 
@@ -78,8 +104,20 @@ img {
         width: 100%;
     }    
     
-    p {
-        text-align:justify;
+    .site_name {
+        width: 100%;
+        text-align: center;
+        clear: both;
+    }    
+    
+    aside {
+        width: 100%;
+        text-align: center;
+        margin: 0;
+    }
+    
+    section {
+        clear: both;
     }
     
     img {
@@ -87,7 +125,7 @@ img {
         margin-left: auto;
         margin-right: auto;
         padding: 20px;
-        display:block;
+        display: block;
     }
     
 }
@@ -97,7 +135,8 @@ img {
 @media screen and (min-width: 721px){
     .navmenu {
         float: left;
-        width: 20%;
+        width: 15%;
+        clear: right;
     }
     
     /* <a> menu links */
@@ -105,11 +144,17 @@ img {
         padding: 10px;
     }
     
+    .site_name {
+        width: 20%;
+        margin-left: 5%;
+        float: left;
+    }
+    
     .img_left {
-        float:left;
+        float: left;
     }
 
     .img_right {
-        float:right;
+        float: right;
     }
 }
