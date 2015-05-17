@@ -9,10 +9,6 @@ header, section, footer, aside, nav, main, article, figure {
     display: block; 
 }
 
-footer {
-    font-size: 12px;
-}
-
 h1, h3 {
     font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
     color: #AA6C39;
@@ -35,20 +31,6 @@ ol {
 
 img {
     width: 33%;
-}
-
-aside {
-    float: left;
-    text-align: left;    
-    line-height: 30px;
-    width: 20%;
-    margin-left: 5%;
-}
-
-section {
-    width: 50%;
-    float: left;
-    text-align: left;    
 }
 
 footer {
@@ -79,7 +61,7 @@ footer {
     background-color: #AA9739;
 }
 
-.current:hover,.otherpage:hover {
+.current:hover,.otherpage:hover, .links:hover {
     color: #FFFFFF;
 }
 
@@ -91,6 +73,9 @@ footer {
 .site_name {
     text-decoration: none;
     color: #AA9739;
+    font-size: 2em;
+    font-family: "Courier New", Courier, monospace;
+    font-variant: small-caps;
 }
 
 .normal_list {
@@ -105,19 +90,33 @@ footer {
     }    
     
     .site_name {
+        display: block;
         width: 100%;
         text-align: center;
         clear: both;
+        line-height: 30px;
     }    
     
     aside {
         width: 100%;
         text-align: center;
-        margin: 0;
+        margin: auto;
+        float: none;
     }
     
     section {
-        clear: both;
+        margin-left: 16%;
+        margin-right: 16%;
+        width: 68%;
+        text-align: justify;
+    }
+    
+    footer {
+        font-size: 0.5em;
+    }
+    
+    h1 {
+        text-align: center;
     }
     
     img {
@@ -133,6 +132,25 @@ footer {
 
 /* large size screens */
 @media screen and (min-width: 721px){
+    
+    aside {
+        float: left;
+        text-align: left;    
+        line-height: 30px;
+        width: 20%;
+        margin-left: 5%;        
+    }
+    
+    section {
+        width: 50%;
+        float: left;
+        text-align: left;    
+    }    
+
+    footer {
+        font-size: 0.75em;
+    }
+    
     .navmenu {
         float: left;
         width: 15%;
