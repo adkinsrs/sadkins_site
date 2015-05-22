@@ -34,7 +34,10 @@ ol {
 }
 
 img {
-    width: 33%;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+    display: block;
 }
 
 footer {
@@ -123,14 +126,6 @@ footer {
         text-align: center;
     }
     
-    img {
-        width: 66%;
-        margin-left: auto;
-        margin-right: auto;
-        padding: 20px;
-        display: block;
-    }
-    
 }
 
 
@@ -172,11 +167,4 @@ footer {
         float: left;
     }
     
-    .img_left {
-        float: left;
-    }
-
-    .img_right {
-        float: right;
-    }
 }
