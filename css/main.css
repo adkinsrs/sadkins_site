@@ -34,9 +34,6 @@ ol {
 }
 
 img {
-    margin-left: auto;
-    margin-right: auto;
-    padding: 20px;
     display: block;
 }
 
@@ -126,6 +123,13 @@ footer {
         text-align: center;
     }
     
+    img {
+        width: 75%;
+    }
+    
+    img {
+        margin: auto;
+    }    
 }
 
 
@@ -148,6 +152,10 @@ footer {
 
     footer {
         font-size: 0.75em;
+    }
+    
+    img {
+        width: 50%;
     }
     
     .navmenu {
