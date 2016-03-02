@@ -74,6 +74,9 @@ footer {
     color: #AA6C39;
 }
 
+.projects {
+    list-style-type: circle;
+}
 .site_name {
     text-decoration: none;
     color: #AA9739;
