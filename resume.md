@@ -23,6 +23,7 @@ permalink: /resume/
       * LGTSeek Lateral Gene Transfer Pipeline (lead developer)
       * Pangenome Pipeline (lead developer)
     * Active developement of the NeMO Archive for storing neurological bioinformatics data
+    * Provide assistance for the VIROME annotation pipeline in collaboration with University of Delaware researchers
 
 ## Research
 * Papers
