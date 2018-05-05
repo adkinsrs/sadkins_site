@@ -1,0 +1,29 @@
+# Shamelessly stolen from https://cclettenberg.com/ruby-on-rails/2015/05/28/jekyll-travis-ci-nearlyfreespeech.html
+language: ruby
+rvm: 2.2.1
+install: gem install jekyll html-proofer
+script: jekyll build && ./script/cibuild
+branches:
+  #any branches you'd like Travis CI to test.
+  only:
+  - pages
+  - master
+  - "/pages-(.*)/"
+env:
+  global:
+  - NOKOGIRI_USE_SYSTEM_LIBRARIES=true
+
+## before installing app
+## Turn off strict host checking
+## unzip encrypted ssh private key and _config.yml
+before_install:
+    - echo -e "Host ssh.phx.nearlyfreespeech.net\n\tStrictHostKeyChecking no\n" >> ~/.ssh/config
+    - openssl aes-256-cbc -K $encrypted_dc941821cb90_key -iv $encrypted_dc941821cb90_iv
+      -in secrets.tar.enc -out secrets.tar -d
+    - tar xvf secrets.tar
+
+after_success:
+    - chmod 600 .travis/ssh_key
+    - eval "$(ssh-agent -s)"
+    - ssh-add .travis/ssh_key
+    - rake deploy

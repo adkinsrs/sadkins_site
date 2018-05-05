@@ -1,3 +1,7 @@
 _site
 .sass-cache
 .jekyll-metadata
+.travis/
+secrets.tar
+Rakefile
+travis.log
