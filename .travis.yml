@@ -19,6 +19,7 @@ before_install:
     - echo -e "Host ssh.phx.nearlyfreespeech.net\n\tStrictHostKeyChecking no\n" >> ~/.ssh/config
     - openssl aes-256-cbc -K $encrypted_ccfb71d23f49_key -iv $encrypted_ccfb71d23f49_iv -in secrets.tar.enc -out secrets.tar -d
     - tar xvf secrets.tar
+    - bundle update
 
 after_success:
     - chmod 600 .travis/ssh_key
