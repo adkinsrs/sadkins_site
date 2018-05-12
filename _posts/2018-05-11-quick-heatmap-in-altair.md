@@ -57,7 +57,7 @@ alt.Chart(data).mark_rect().encode(
 Adding ".mark\_rect" tells altair to use rectangles as data points.  Adding ".encode" allows you to configure the plot specifics.  My x-axis is the "variable" column, and my y-axis is the ID column.  For both of these, I explicitly tell Altair they are Nominal types.  For heatmap coloring, I use the "values" column and make it explicitly a Quantitative type.  Altair generally can infer these things, but there's no harm in explicitly declaring the type of data.
 
 Below is the heatmap generated.  I still need to learn a bit more about Altair.  ID10 should follow ID9 instead of ID1, and I have not looked up how to sort axes labels yet.
-![heatmap of demo data]("/assets/altair-demo.png" "Altair Heatmap Demo")
+![heatmap of demo data]({{ "/assets/altair-demo.png" | absulute_url }} "Altair Heatmap Demo")
 
 Overall I am pretty impressed with Altair.  The biggest draw for me is that Altair generates the plot based on the context of the parameters provided.  If I had used ".mark\_point" or ".mark\_bar" instead of ".mark\_rect", I would have gotten a different plot.  Same goes for if I specified that my Nominal axis data was Quantitative or Ordinal (as well as changing my color data as well).  This is a very handy feature for those that do not necessarily know what plot is best for their data, and this is a simpler way of generating plots too... no need to memorize and call specific plot names from a given module library, as well write long, convuted arguments.  I'm looking forward to exploring Altair more in the future.
 
