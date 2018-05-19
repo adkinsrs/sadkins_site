@@ -1,13 +1,11 @@
 # Shamelessly stolen from https://cclettenberg.com/ruby-on-rails/2015/05/28/jekyll-travis-ci-nearlyfreespeech.html
 language: ruby
 cache: bundler
-script: 'bundle exec jekyll build && bundle exec htmlproofer --url_ignore="/www.github.com/,/www.linkedin.com/,/talk.jekyllrb.com/" ./_site'
+script: 'bundle exec jekyll build && bundle exec htmlproofer ./_site --disable-external'
 branches:
   #any branches you'd like Travis CI to test.
   only:
-  #- pages
   - master
-  #- "/pages-(.*)/"
 env:
   global:
   - NOKOGIRI_USE_SYSTEM_LIBRARIES=true
@@ -26,3 +24,5 @@ after_success:
     - eval "$(ssh-agent -s)"
     - ssh-add .travis/ssh_key
     - rake deploy
+
+sudo: false # route your build to the container-based infrastructure for a faster build
