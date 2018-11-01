@@ -46,13 +46,16 @@ permalink: /resume/
   * Amazon EC2
   * Bash
   * Flask
+  * Julia
   * SVN
 * Low Proficiency
   * Awk
   * Java
   * Javascript
+    * Angular
     * ExtJS
     * JQuery
-  * Julia
+    * Node
+    * Typescript
   * Kubernetes
   * Sed
