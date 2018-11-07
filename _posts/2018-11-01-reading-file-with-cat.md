@@ -26,14 +26,14 @@ file3
 However suppose we want to cat a file with spaces or tabs, such as an md5-checksum file.  The behavior is not what you expect.
 ```bash
 #!/bin/bash
-md5sum file1 > test.txt	### b3a30e00413ee10a67c9885e82cb41fd	file1
-md5sum file2 >> test.txt	### 994fa7365446cc14fec9f2a22426f28c	file2
-md5sum file3 >> test.txt	### 6c31005bdd028d524c73f7a35d658a88	file3
+md5sum file1 > test.txt		### b3a30e00413ee10a67c9885e82cb41fd file1
+md5sum file2 >> test.txt	### 994fa7365446cc14fec9f2a22426f28c file2
+md5sum file3 >> test.txt	### 6c31005bdd028d524c73f7a35d658a88 file3
 for f in `cat test.txt`
 do
     echo "string = $f"
-    s=$(echo $f | cut -f1)
-    t=$(echo $f | cut -f2)
+    s=$(echo $f | cut -d ' ' -f1)
+    t=$(echo $f | cut -d ' ' -f2)
     echo "s = $s"
     echo "t = $t"
 done
@@ -67,21 +67,21 @@ How do we fix this?  By using a "while read line" loop instead:
 while read f
 do
     echo "string = $f"
-    s=$(echo $f | cut -f1)
-    t=$(echo $f | cut -f2)
+    s=$(echo $f | cut -d ' ' -f1)
+    t=$(echo $f | cut -d ' ' -f2)
     echo "s = $s"
     echo "t = $t"
 done < "test.txt"
 ```
 Do note the file is being redirected as STDIN at the end of the loop
 ```
-string = b3a30e00413ee10a67c9885e82cb41fd    file1
+string = b3a30e00413ee10a67c9885e82cb41fd file1
 s = b3a30e00413ee10a67c9885e82cb41fd
 t = file1
-string = 994fa7365446cc14fec9f2a22426f28c    file2
+string = 994fa7365446cc14fec9f2a22426f28c file2
 s = 994fa7365446cc14fec9f2a22426f28c
 t = file2
-string = 6c31005bdd028d524c73f7a35d658a88    file3
+string = 6c31005bdd028d524c73f7a35d658a88 file3
 s = 6c31005bdd028d524c73f7a35d658a88
 t = file3
 ```
