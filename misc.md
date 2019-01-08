@@ -17,9 +17,11 @@ I have more in my rotation than are in the list, but these are the ones I listen
 * The Art of Manliness Podcast
 * StarTalk
   * Mostly for the "Playing With Science" episodes
+* My Brother, My Brother, and Me
+* The Thomahawk Show
 
 ## Games I have beaten in 2019
-(None yet)
+* Jan 7 - Yoku's Island Express - Switch
 
 ## Books I have finished reading in 2019
 (None yet)
