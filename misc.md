@@ -24,4 +24,4 @@ I have more in my rotation than are in the list, but these are the ones I listen
 * Jan 7 - Yoku's Island Express - Switch
 
 ## Books I have finished reading in 2019
-(None yet)
+* Jan 21 - Astrophysics for People in a Hurry - Neil Degrasse Tyson
