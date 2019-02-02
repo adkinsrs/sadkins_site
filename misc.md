@@ -25,3 +25,4 @@ I have more in my rotation than are in the list, but these are the ones I listen
 
 ## Books I have finished reading in 2019
 * Jan 21 - Astrophysics for People in a Hurry - Neil Degrasse Tyson
+* Feb 2 - The Snowman - Jo Nesbø
