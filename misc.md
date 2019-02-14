@@ -22,6 +22,7 @@ I have more in my rotation than are in the list, but these are the ones I listen
 
 ## Games I have beaten in 2019
 * Jan 7 - Yoku's Island Express - Switch
+* Feb 13 - GNOG - PC
 
 ## Books I have finished reading in 2019
 * Jan 21 - Astrophysics for People in a Hurry - Neil Degrasse Tyson
