@@ -23,8 +23,11 @@ I have more in my rotation than are in the list, but these are the ones I listen
 ## Games I have beaten in 2019
 * Jan 7 - Yoku's Island Express - Switch
 * Feb 13 - GNOG - PC
+* Mar 17 - Gris - Switch
+* Mar 22 - Donut County - Switch
 
 ## Books I have finished reading in 2019
 * Jan 21 - Astrophysics for People in a Hurry - Neil Degrasse Tyson
 * Feb 2 - The Snowman - Jo Nesbø
 * Feb 15 - I'm Just Here for the Food - Alton Brown
+* Mar 20 - Captain Riley II: Darkness - Fernando Gamboa
