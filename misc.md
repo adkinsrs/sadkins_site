@@ -26,6 +26,7 @@ I have more in my rotation than are in the list, but these are the ones I listen
 * Mar 17 - Gris - Switch
 * Mar 22 - Donut County - Switch
 * Apr 9 - Aviary Attorney - PC
+* Apr 10 - Princess Remedy in a World of Hurt - PC
 
 ## Books I have finished reading in 2019
 * Jan 21 - Astrophysics for People in a Hurry - Neil Degrasse Tyson
