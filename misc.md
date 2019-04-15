@@ -34,3 +34,4 @@ I have more in my rotation than are in the list, but these are the ones I listen
 * Feb 15 - I'm Just Here for the Food - Alton Brown
 * Mar 20 - Captain Riley II: Darkness - Fernando Gamboa
 * Apr 8 - 2001: A Space Odyssey - Arthur C. Clarke
+* Apr 15 - Press Start to Translate - Clyde Mandelin
