@@ -98,12 +98,13 @@ a {
   // &:visited {
   //   color: darken($brand-color, 15%);
   // }
-
-  &:hover {
-    text-decoration: underline;
-  }
 }
 
+.page-link, .u-email {
+  &:hover {
+    text-decoration: underline;
+  } 
+}
 
 
 /**
