@@ -2,7 +2,7 @@
 layout: post
 title:  "Removing Old Untagged Docker Images"
 date:   2019-04-26
-categories: docker
+tags: docker
 ---
 
 In Docker, it is easy to remove specific images with the command:
