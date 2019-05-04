@@ -2,7 +2,7 @@
 layout: post
 title:  "Quick Heatmap using Altair"
 date:   2018-05-11
-categories: python altair
+tags: python altair
 ---
 
 This week I have been attending PyCon 2018 in Cleveland, OH.  I consider myself to be a beginner/intermediate Python programmer, due to my relative newness in adopting the language, and how often I have to consult the documentation to make sure I'm approaching my code the right way.
