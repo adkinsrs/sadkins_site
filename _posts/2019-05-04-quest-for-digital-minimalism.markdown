@@ -2,7 +2,7 @@
 layout: post
 title:  "A Quest for Digital Minimalism"
 date: 2019-05-04
-categories: facebook minimalism self-improvement
+tags: facebook minimalism self-improvement
 ---
 
 TL;DR - I'm going to leave Facebook for an extended period of time as an exercise in self-improvement.
