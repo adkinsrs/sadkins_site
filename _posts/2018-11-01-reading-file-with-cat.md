@@ -2,7 +2,7 @@
 layout: post
 title:  "Why reading in a file with cat is wrong"
 date:   2018-11-01
-categories: shell unix bash
+tags: shell unix bash
 ---
 
 It has been quite a long time since I have posted to my blog.  I have been wanting to add more things, but honestly, the passion and ideas for content have not been there.  This is much the same reason I decided not to do National Novel Writing Month (NaNoWriMo) this year, despite having an idea for a book I like.  But in it's place, I've decided to try and write a blog post a day for the month of November (or at least when I can).
