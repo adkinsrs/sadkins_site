@@ -2,7 +2,7 @@
 layout: post
 title:  "Unconventional Properties in Neo4j"
 date:   2019-03-07
-categories: neo4j cypher
+tags: neo4j cypher
 ---
 
 In neo4j, property keys have certain restrictions when naming the key.  The key names must only be in alphanumeric or underscore characters.  But what if for some reason, you wish to use other characters in your key names?  All is not lost!
