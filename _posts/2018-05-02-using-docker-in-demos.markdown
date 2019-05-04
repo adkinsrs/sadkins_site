@@ -2,7 +2,7 @@
 layout: post
 title:  "Using Docker in Workshop Demonstrations"
 date:   2018-05-02
-categories: docker
+tags: docker
 ---
 
 This week at my workplace, we have hosted a workshop centering around transcriptomics analysis.  I was responsible for two main things: 1) setting up Docker instances for a couple of web applications that would be run on a virtual host that the students could access, and 2) providing tech support for these various demonstrations.
