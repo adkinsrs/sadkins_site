@@ -40,12 +40,14 @@ permalink: /resume/
   * Bash
   * Docker
   * Git
+  * HTML
   * Neo4j
   * Perl
   * Python
   * UNIX
 * Medium Proficiency
   * Amazon EC2
+  * CSS
   * Flask
   * Julia
   * SQL
@@ -54,10 +56,9 @@ permalink: /resume/
   * Awk
   * Java
   * Javascript
-  * Angular
-  * ExtJS
-  * JQuery
-  * Node
-  * Typescript
+    * Angular
+    * ExtJS
+    * JQuery
   * Kubernetes
   * Sed
+  * Typescript
