@@ -37,27 +37,27 @@ permalink: /resume/
 
 ## Skills
 * High Proficiency
- * Bash
- * Docker
- * Git
- * Neo4j
- * Perl
- * Python
- * UNIX
+  * Bash
+  * Docker
+  * Git
+  * Neo4j
+  * Perl
+  * Python
+  * UNIX
 * Medium Proficiency
- * Amazon EC2
- * Flask
- * Julia
- * SQL
- * SVN
+  * Amazon EC2
+  * Flask
+  * Julia
+  * SQL
+  * SVN
 * Low Proficiency
- * Awk
- * Java
- * Javascript
+  * Awk
+  * Java
+  * Javascript
   * Angular
   * ExtJS
   * JQuery
   * Node
   * Typescript
- * Kubernetes
- * Sed
+  * Kubernetes
+  * Sed
