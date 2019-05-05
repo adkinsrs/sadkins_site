@@ -14,7 +14,7 @@ layout: default
   
   <small>
     {% for tag in page.tags %}
-    <span class="tags">Tags: <a href="/tags/{{ tag }}/">{{ tag }}</a></span>
+    <a class="post-tags" href="/tags/{{ tag }}/">{{ tag }}</a>
     {% endfor %}
   </small>
 
