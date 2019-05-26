@@ -1,0 +1,1 @@
+This directory exists for me to compose posts and make edits before I want them to go live.  Generally I'll do a post in one-sitting but there are times where I need to split it across multiple sessions
