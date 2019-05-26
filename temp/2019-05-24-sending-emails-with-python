@@ -5,6 +5,49 @@ date:   2019-05-24
 tags: python email
 ---
 
+Recently at work, I was tasked with periodically sending a list of file contents to certain groups so that they can keep track of the data they have submitted to us.  Obviously this task would be a pain if I had to send the emails manually, but fortunately modern languages typically have packages or modules to send an email, given a few configurations.  A long time ago (with the aid of Google and Stack Overflow) I wrote scripts in Bash and Perl to send emails, but for this situation I elected to go with Python.
+
+The objective of this task is to go thorough a list of files present in a text file and determine which user the file is associated with based on a simple pattern.  Once determined, the files are stored in a dictionary where the user name is the key, and for each key an email is sent to that user, providing the user's list of files as a gzipped attachment.
+
+Two things worth noting:
+* This script is a simplified version of a script I wrote for my workplace, so there are probably some aspects that can be improved (such as consolidating the dicttionaries using the user's name as key into a nested dict.)
+* The workplace script actually uses a nested dict structure to send an email to a user based on sub-categories, each with their own pattern.  Each sub-category gets its own attachment, and I will briefly explain how you would do that.
+
+Lastly I would also like to cite (this article from Real Python)[https://realpython.com/python-send-email/] which helped me a lot in setting up the email portion of my script.
+
+Let's get started...
+
+```python
+# general modules
+from argparse import ArgumentParser
+import sys
+import datetime
+import gzip
+from collections import defaultdict
+
+# email modules
+from email.mime.application import MIMEApplication
+from email.mime.multipart import MIMEMultipart
+from email.mime.text import MIMEText
+import smtplib  # Simple Mail Transfer Protocol
+import ssl
+```
+The modules that I import can be broken into two seperate categories: general modules and email-specific modules.  As part of a Python template, I also import the "logging" module but it is not relevant for the script.  The "gzip" module is imported to compress the attachments, and "datetime" is important to create a timestamp for the email subject line and attachment file name.
+
+```python
+port = 587
+smtp_server = 'smtp.office365.com'
+sender_email = "test@outlook.com"
+password = input("Type your password and press enter: ")
+```
+For my "sender_email" variable, I used Outlook's services, which influences the "smtp_server" and "port" variables.  These variables will change depending on the email client used to send emails from.  For the "password" variable, we rely on the user to input it via the terminal... however if you are worried about your password being vislble on the terminal, adding the "getpass" module will make the screen input "blind".
+
+```python
+TODAY = datetime.date.today()
+```
+
+I just store today's date in a variable.  Beats having to type "datetime.date.today()" every time I need the timestamp
+
 ```python
 #!/usr/bin/env python
 
@@ -26,7 +69,7 @@ import datetime
 import gzip
 from collections import defaultdict
 
-# email packages
+# email modules
 from email.mime.application import MIMEApplication
 from email.mime.multipart import MIMEMultipart
 from email.mime.text import MIMEText
