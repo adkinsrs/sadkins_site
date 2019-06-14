@@ -28,6 +28,7 @@ I have more in my rotation than are in the list, but these are the ones I listen
 * Apr 9 - Aviary Attorney - PC
 * Apr 10 - Princess Remedy in a World of Hurt - PC
 * May 27 - Mass Effect 3 - PC
+* June 13 - West of Loathing - Switch
 
 ## Books I have finished reading in 2019
 * Jan 21 - Astrophysics for People in a Hurry - Neil Degrasse Tyson
