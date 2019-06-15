@@ -38,4 +38,5 @@ I have more in my rotation than are in the list, but these are the ones I listen
 * Apr 8 - 2001: A Space Odyssey - Arthur C. Clarke
 * Apr 15 - Press Start to Translate - Clyde Mandelin
 * May 25 - Pittsylvania County, Virginia: A Brief History - Larry G. Aaron
-* May 28 - The Immortal Life of Henrietta Lacks - Rebecca skloot
+* May 28 - The Immortal Life of Henrietta Lacks - Rebecca Skloot
+* June 14 - The Life-Changing Magic of Tidying Up - Marie Kondo
