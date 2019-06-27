@@ -1,7 +1,6 @@
 # Shamelessly stolen from https://cclettenberg.com/ruby-on-rails/2015/05/28/jekyll-travis-ci-nearlyfreespeech.html
 language: ruby
-cache: bundle
-#cache: bundler
+cache: bundler
 script: 'rm -rf ./_site && bundle exec jekyll build && bundle exec htmlproofer ./_site --disable-external'
 branches:
   #any branches you'd like Travis CI to test.
