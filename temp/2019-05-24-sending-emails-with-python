@@ -49,6 +49,117 @@ TODAY = datetime.date.today()
 I just store today's date in a variable.  Beats having to type "datetime.date.today()" every time I need the timestamp
 
 ```python
+user_ptrns = {
+    'alice':'alice/foo',
+    'bob':'bob/bar',
+    'charles':'charles/baz',
+    'donna':'donna/qux'
+}
+
+user_emails = {
+    'alice':"alice@test.email",
+    'bob':"bob@test.email",
+    'charles':"charles@test.email",
+    'donna':"donna@test.email"
+}
+```
+
+Two different dictionaries were initialized, and both use the same key type.  A nested dictionary would have worked just fine here but since I only cared about two different sets of values for each key, I just decided to make two separate dicts instead.  The values for the first dictionary (user_ptrns) represent the portion of each filepath within the input list file that will be unique to that files for that person.  The values for the second dictionary are the email addresses associated with that person.
+
+```python
+inv_dict = defaultdict(list)
+
+def handle_inv_line(line):
+    """Determine user from the line in the inventory list and store in list."""
+    # Build dict of file info by user
+    for user, line in user_ptrns.items():
+        if ptrn in line:
+            inv_dict[user].append(line)
+            return
+    print("Could not discern user from line '{}'".format(line), file=sys.stderr)
+    
+def main():
+    ### ARG-PARSING CODE OMITTED ###
+    print("Categorizing files in inventory list")
+    with open(args.inventory_file) as inv_fh:
+        for line in inv_fh:
+            line = line.rstrip()
+            handle_inv_line(line)
+```
+
+Each line in the input list file is checked for any pattern in the user_ptrns dictionary, and if a match is found, that line is associated with the user inside of a list that serves as a value of a defaultdict.  Once the file has been associated with a user, there is no need to loop over user_ptrns anymore so we break out of the loop with a simple "return".
+
+```python
+def main():
+    ### ARG-PARSING AND INVENTORY CATEGORIZING ALREADY PERFORMED ###
+    
+    # Create a secure SSL context
+    context = ssl.create_default_context()
+
+    print("Composing and sending email reports and attachments...")
+    # Try to log in to server and send email
+    try:
+        server = smtplib.SMTP(smtp_server,port)
+        server.starttls(context=context) # Secure the connection
+        server.login(sender_email, password)
+        for user, inv in inv_dict.items():
+            report_body = "{} (total - {})".format(user.title(), len(inv))
+            attachment_body = "\n".join(inv)
+            attachment = create_attachment(user, attachment_body)
+            compose_email(server, user, report_body, attachment)
+    except Exception as e:
+        # Print any error messages to stdout
+        print(e)
+    finally:
+        server.quit()
+```
+
+After categorizing every file with a certain user, it's now time to send emails to each user.  First some SSL connection default settings are created, and an SMTP server object is created, and logged into using my credentials.  For reference the credential variables were posted in an earlier code block.
+
+Next the defaultdict containing the file inventory by user is iterated through.  A simple e-mail body message string is created just listing the user's name and the number of files associated with them.  All of the files in the user's file inventory list are used to create a newline-separated string that will be sent in the e-mail as an attachment.
+
+When all the e-mails have been sent, or there is a failure of some sorts the server object is set to quit.
+
+```python
+def create_attachment(user, body):
+    """Create an attachment file."""
+    name = "{}-{}-inventory.txt.gz".format(TODAY, user)
+
+    # body is encoded into bytes, then compressed with gzip
+    part = MIMEApplication(
+        gzip.compress(str.encode(body)),
+        "gzip",
+        Name=name
+    )
+    # After the file is closed
+    part['Content-Disposition'] = 'attachment; filename="{}"'.format(name)
+    return part
+```
+
+This function is called in the previous code-block's "try" block to compose the attachment.  I choose to send the attached text file in GZip format, since the attachment size may be too large uncompressed depending on how many files are in the attachment.  If the GZip file is still too large to send as an attachment, then it may be time to consider another approach to deliver this information.  Since this email is going out on a weekly basis, I like to include the date in the email in case the user is keeping track of file additions or changes.
+
+```python
+def compose_email(server, user, body, attachment):
+    """Send email with generated reports."""
+    # Create a multipart message and set headers
+    message = MIMEMultipart()
+    message["From"] = sender_email
+    message["To"] = user_emails[user]
+    message["Subject"] = "{} - {} Quarterly Inventory.".format(TODAY, user.upper())
+    message.attach(MIMEText(body))
+
+    # Add attachment
+    message.attach(attachment)
+
+    # Send e-mail to user
+    server.sendmail(sender_email, user_emails[user], message.as_string())
+```
+
+For creating the e-mail itself, we need to create a MIMEMultipart() object, fill out the "From", "To", and "Subject' properties, attach both the message body and the attachment file.  Once this is complete, the email is officially sent out.
+
+As a reference the entire script is listed below.
+
+```python
 #!/usr/bin/env python
 
 """
