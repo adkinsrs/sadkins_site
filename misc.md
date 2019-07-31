@@ -42,3 +42,4 @@ I have more in my rotation than are in the list, but these are the ones I listen
 * May 28 - The Immortal Life of Henrietta Lacks - Rebecca Skloot
 * June 14 - The Life-Changing Magic of Tidying Up - Marie Kondo
 * July 5 - The Red Badge of Courage - Stephen Crane
+* July 30 - The North Water - Ian McGuire
