@@ -30,6 +30,8 @@ I have more in my rotation than are in the list, but these are the ones I listen
 * May 27 - Mass Effect 3 - PC
 * June 13 - West of Loathing - Switch
 * July 16 - Bloodstained: Ritual of the Night - Switch
+* Aug 9 - Renowned Exporers: International Society - PC
+* Aug 10 - Forager - Switch
 
 ## Books I have finished reading in 2019
 * Jan 21 - Astrophysics for People in a Hurry - Neil Degrasse Tyson
