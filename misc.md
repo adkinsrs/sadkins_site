@@ -30,7 +30,6 @@ I have more in my rotation than are in the list, but these are the ones I listen
 * May 27 - Mass Effect 3 - PC
 * June 13 - West of Loathing - Switch
 * July 16 - Bloodstained: Ritual of the Night - Switch
-* Aug 9 - Renowned Exporers: International Society - PC
 * Aug 10 - Forager - Switch
 
 ## Books I have finished reading in 2019
@@ -45,3 +44,4 @@ I have more in my rotation than are in the list, but these are the ones I listen
 * June 14 - The Life-Changing Magic of Tidying Up - Marie Kondo
 * July 5 - The Red Badge of Courage - Stephen Crane
 * July 30 - The North Water - Ian McGuire
+* Aug 18 - The Private Life of Chairman Mao - Li Zhisui
