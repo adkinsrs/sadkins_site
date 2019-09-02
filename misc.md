@@ -46,3 +46,4 @@ I have more in my rotation than are in the list, but these are the ones I listen
 * July 5 - The Red Badge of Courage - Stephen Crane
 * July 30 - The North Water - Ian McGuire
 * Aug 18 - The Private Life of Chairman Mao - Li Zhisui
+* Sept 2 - Norse Mythology - Neil Gaiman
