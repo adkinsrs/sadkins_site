@@ -34,6 +34,7 @@ I have more in my rotation than are in the list, but these are the ones I listen
 * Aug 23 - Deltarune: Chapter 1 - Switch
 * Oct 12 - Aggelos - Switch
 * Oct 25 - Pikuniku - Switch
+* Nov 7 - Untitled Goose Game - Switch
 
 ## Books I have finished reading in 2019
 * Jan 21 - Astrophysics for People in a Hurry - Neil Degrasse Tyson
