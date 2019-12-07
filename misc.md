@@ -55,3 +55,4 @@ I have more in my rotation than are in the list, but these are the ones I listen
 * Sept 2 - Norse Mythology - Neil Gaiman
 * Oct 29 - Statistics Done Wrong - Alex Reinhart
 * Nov 26 - The Crusades - Thomas Ashbridge
+* Dec 7 - Slapstick - Kurt Vonnegut
