@@ -40,6 +40,7 @@ I have more in my rotation than are in the list, but these are the ones I listen
 * Dec 6 - Pokemon Shield - Switch
 * Dec 13 - PictoQuest: The Cursed Grids - Switch
   * Still love picross!
+* Dec 31 - You Must Build a Boat - Android
 
 ## Books I have finished reading in 2019
 * Jan 21 - Astrophysics for People in a Hurry - Neil Degrasse Tyson
