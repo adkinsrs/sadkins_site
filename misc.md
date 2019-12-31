@@ -19,8 +19,10 @@ I have more in my rotation than are in the list, but these are the ones I listen
   * Mostly for the "Playing With Science" episodes
 * My Brother, My Brother, and Me
 * The Thomahawk Show
+  * Not a fan of the Cleveland Browns by any means (Go Ravens!), but I like the dynamic of Joe Thomas and Andrew Hawkins. And I guess there is a charm in hearing from the perspective of another team's fanbase.
 
-## Games I have beaten in 2019
+## 2019
+### Games I have beaten
 * Jan 7 - Yoku's Island Express - Switch
 * Feb 13 - GNOG - PC
 * Mar 17 - Gris - Switch
@@ -35,14 +37,15 @@ I have more in my rotation than are in the list, but these are the ones I listen
 * Oct 12 - Aggelos - Switch
 * Oct 25 - Pikuniku - Switch
 * Nov 7 - Untitled Goose Game - Switch
-* Nov 30  - Pic-a-Pix Delux - Switch
+* Nov 30  - Pic-a-Pix Deluxe - Switch
   * I love nonograms/picross puzzles
 * Dec 6 - Pokemon Shield - Switch
 * Dec 13 - PictoQuest: The Cursed Grids - Switch
   * Still love picross!
+* Dec 21 - The Touryst - Switch
 * Dec 31 - You Must Build a Boat - Android
 
-## Books I have finished reading in 2019
+### Books I have finished reading
 * Jan 21 - Astrophysics for People in a Hurry - Neil Degrasse Tyson
 * Feb 2 - The Snowman - Jo Nesbø
 * Feb 15 - I'm Just Here for the Food - Alton Brown
