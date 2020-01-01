@@ -21,6 +21,10 @@ I have more in my rotation than are in the list, but these are the ones I listen
 * The Thomahawk Show
   * Not a fan of the Cleveland Browns by any means (Go Ravens!), but I like the dynamic of Joe Thomas and Andrew Hawkins. And I guess there is a charm in hearing from the perspective of another team's fanbase.
 
+## 2020
+### Games I have beaten
+* Jan 1 - Return of the Obra Dinn - PC
+
 ## 2019
 ### Games I have beaten
 * Jan 7 - Yoku's Island Express - Switch
