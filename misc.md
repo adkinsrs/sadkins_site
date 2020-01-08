@@ -20,6 +20,7 @@ I have more in my rotation than are in the list, but these are the ones I listen
 * My Brother, My Brother, and Me
 * The Thomahawk Show
   * Not a fan of the Cleveland Browns by any means (Go Ravens!), but I like the dynamic of Joe Thomas and Andrew Hawkins. And I guess there is a charm in hearing from the perspective of another team's fanbase.
+* Conan O'Brien Needs a Friend
 
 ## 2020
 ### Games I have beaten
