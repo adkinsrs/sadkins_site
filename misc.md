@@ -25,6 +25,11 @@ I have more in my rotation than are in the list, but these are the ones I listen
 ## 2020
 ### Games I have beaten
 * Jan 1 - Return of the Obra Dinn - PC
+* Jan 25 - Final Fantasy XII: The Zodiac Age - Switch
+  * I beat the original Playstation 2 release in the mid-2000s, so it was nice to revisit this underrated game
+
+### Books I have finished reading
+* Jan 24 - Word by Word: The Secret Life of Dictionaries - Kory Stamper
 
 ## 2019
 ### Games I have beaten
