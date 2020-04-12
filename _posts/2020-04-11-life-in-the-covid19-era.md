@@ -2,7 +2,7 @@
 layout: post
 title:  "My Life So Far in the Era of COVID-19"
 date: 2020-04-11
-tags: coronoavirus covid19 checkup
+tags: coronavirus covid19 checkup
 ---
 
 I rarely write blog posts, certainly not as many as I envisioned when I first started out a couple years ago.  Maybe I just do not have the drive to do so.  But today I felt like writing a post about how I am handling sheltering-in-place as part of the COVID-19 epidemic.
