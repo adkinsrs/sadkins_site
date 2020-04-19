@@ -34,6 +34,7 @@ I have more in my rotation than are in the list, but these are the ones I listen
 ### Books I have finished reading
 * Jan 24 - Word by Word: The Secret Life of Dictionaries - Kory Stamper
 * Mar 24 - Blue Highways - William Least Half-Moon
+* Apr 19 - The Hero of Ages: A Mistborn Novel - Brandon Sanderson
 
 ## 2019
 ### Games I have beaten
