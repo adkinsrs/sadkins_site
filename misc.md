@@ -31,6 +31,7 @@ I have more in my rotation than are in the list, but these are the ones I listen
 * Mar 2 - Tales of Berseria - PC
 * Mar 28 - Fire Emblem Warriors - Switch
 * Apr 30 - Chocobo's Mystery Dungeon: Every Buddy - Switch
+* May 3 - Bury Me, My Love - Switch
 
 ### Books I have finished reading
 * Jan 24 - Word by Word: The Secret Life of Dictionaries - Kory Stamper
