@@ -38,6 +38,7 @@ I have more in my rotation than are in the list, but these are the ones I listen
 * Mar 24 - Blue Highways - William Least Half-Moon
 * Apr 19 - The Hero of Ages: A Mistborn Novel - Brandon Sanderson
 * Apr 30 - Quackery: A Brief History of the Worst Ways to Cure Everything - Lydia Kana, Nate Pedersen
+* May 12 - Warcross - Marie Lu
 
 ## 2019
 ### Games I have beaten
