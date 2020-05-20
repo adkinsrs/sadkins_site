@@ -32,6 +32,8 @@ I have more in my rotation than are in the list, but these are the ones I listen
 * Mar 28 - Fire Emblem Warriors - Switch
 * Apr 30 - Chocobo's Mystery Dungeon: Every Buddy - Switch
 * May 3 - Bury Me, My Love - Switch
+* May 20 - Katamari Damacy - PS2
+  * Played on PS3
 
 ### Books I have finished reading
 * Jan 24 - Word by Word: The Secret Life of Dictionaries - Kory Stamper
