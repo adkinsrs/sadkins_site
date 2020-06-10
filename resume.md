@@ -17,13 +17,16 @@ permalink: /resume/
 * Institute for Genome Sciences - University of Maryland - Baltimore
   * Bioinformatics Software Engineer I - Aug 2011 - July 2016
   * Bioinformatics Software Engineer II - July 2016 - Present
-    * Developed for and maintained various analyses pipelines
-      * Prokaryotic Genome Annotation Pipeline (lead developer)
-      * Transcriptomics Pipeline
-      * LGTSeek Lateral Gene Transfer Pipeline (lead developer)
-      * Pangenome Pipeline (lead developer)
-    * Active development of the NeMO Archive for storing neurological bioinformatics data
-    * Provide assistance for the VIROME annotation pipeline in collaboration with University of Delaware researchers
+    * Current roles:
+      * Active development of the Neuroscience Multi-Omic (NeMO) Data Archive for processing and storing neurological bioinformatics data
+      * Developer for the gene Expression Analysis Resource (gEAR) portal for analysis and visualization of multi-omic data related to hearing
+    * Past roles:
+      * Developed for and maintained various analyses pipelines
+        * Prokaryotic Genome Annotation Pipeline (lead developer)
+        * Transcriptomics Pipeline
+        * LGTSeek Lateral Gene Transfer Pipeline (lead developer)
+        * Pangenome Pipeline (lead developer)
+      * Provided assistance for the VIROME annotation pipeline in collaboration with University of Delaware researchers
 
 ## Research
 * Papers
