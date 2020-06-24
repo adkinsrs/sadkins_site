@@ -35,6 +35,7 @@ I have more in my rotation than are in the list, but these are the ones I listen
 * May 20 - Katamari Damacy - PS2
   * Played on PS3
 * Jun 19 - Shovel Knight: King of Cards - Switch
+* Jun 24 - Golf Peaks - PC
 
 ### Books I have finished reading
 * Jan 24 - Word by Word: The Secret Life of Dictionaries - Kory Stamper
