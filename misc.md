@@ -7,7 +7,7 @@ permalink: /miscellaneous/
 # Miscellaneous things
 For this page I am going to keep track of various things I am doing, in list form
 
-## Current podcasts
+## Current podcasts I am listening to
 I have more in my rotation than are in the list, but these are the ones I listen to most frequently (i.e. have topics that interest me the most)
 * Punch Up the Jam
 * Ologies
@@ -44,6 +44,7 @@ I have more in my rotation than are in the list, but these are the ones I listen
 * Apr 30 - Quackery: A Brief History of the Worst Ways to Cure Everything - Lydia Kana, Nate Pedersen
 * May 12 - Warcross - Marie Lu
 * May 27 - The Secret Lives of Color - Kassia St. Clair
+* Jun 25 - American Gods - Neil Gaiman
 
 ## 2019
 ### Games I have beaten
