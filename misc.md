@@ -36,6 +36,7 @@ I have more in my rotation than are in the list, but these are the ones I listen
   * Played on PS3
 * Jun 19 - Shovel Knight: King of Cards - Switch
 * Jun 24 - Golf Peaks - PC
+* Jul 27 - A Mortician's Tale - PC
 
 ### Books I have finished reading
 * Jan 24 - Word by Word: The Secret Life of Dictionaries - Kory Stamper
@@ -45,6 +46,9 @@ I have more in my rotation than are in the list, but these are the ones I listen
 * May 12 - Warcross - Marie Lu
 * May 27 - The Secret Lives of Color - Kassia St. Clair
 * Jun 25 - American Gods - Neil Gaiman
+* Jul 9 - Wildcard - Marie Lu
+  * Sequel to Warcross
+* Jul 20 - A Wizard of Earthsea - Ursula K. Le Guin
 
 ## 2019
 ### Games I have beaten
