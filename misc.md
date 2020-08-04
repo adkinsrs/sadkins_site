@@ -37,6 +37,7 @@ I have more in my rotation than are in the list, but these are the ones I listen
 * Jun 19 - Shovel Knight: King of Cards - Switch
 * Jun 24 - Golf Peaks - PC
 * Jul 27 - A Mortician's Tale - PC
+* Aug 3 - Tales of Vesperia: Definitive Edition - Switch
 
 ### Books I have finished reading
 * Jan 24 - Word by Word: The Secret Life of Dictionaries - Kory Stamper
@@ -49,6 +50,7 @@ I have more in my rotation than are in the list, but these are the ones I listen
 * Jul 9 - Wildcard - Marie Lu
   * Sequel to Warcross
 * Jul 20 - A Wizard of Earthsea - Ursula K. Le Guin
+* Aug 2 - The Jungle Book - Rudyard Kipling
 
 ## 2019
 ### Games I have beaten
