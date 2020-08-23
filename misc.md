@@ -39,6 +39,7 @@ I have more in my rotation than are in the list, but these are the ones I listen
 * Jul 27 - A Mortician's Tale - PC
 * Aug 3 - Tales of Vesperia: Definitive Edition - Switch
 * Aug 12 - The Pedestrian - PC
+* Aug 22 - Cadence of Hyrule - Switch
 
 ### Books I have finished reading
 * Jan 24 - Word by Word: The Secret Life of Dictionaries - Kory Stamper
