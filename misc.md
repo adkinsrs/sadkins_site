@@ -40,6 +40,8 @@ I have more in my rotation than are in the list, but these are the ones I listen
 * Aug 3 - Tales of Vesperia: Definitive Edition - Switch
 * Aug 12 - The Pedestrian - PC
 * Aug 22 - Cadence of Hyrule - Switch
+* Aug 30 - Stein's Gate: Elite - Switch
+  * Guess this counts as a book too, being a visual novel
 
 ### Books I have finished reading
 * Jan 24 - Word by Word: The Secret Life of Dictionaries - Kory Stamper
