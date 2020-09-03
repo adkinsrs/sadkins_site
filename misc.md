@@ -34,14 +34,15 @@ I have more in my rotation than are in the list, but these are the ones I listen
 * May 3 - Bury Me, My Love - Switch
 * May 20 - Katamari Damacy - PS2
   * Played on PS3
-* Jun 19 - Shovel Knight: King of Cards - Switch
-* Jun 24 - Golf Peaks - PC
-* Jul 27 - A Mortician's Tale - PC
+* June 19 - Shovel Knight: King of Cards - Switch
+* June 24 - Golf Peaks - PC
+* July 27 - A Mortician's Tale - PC
 * Aug 3 - Tales of Vesperia: Definitive Edition - Switch
 * Aug 12 - The Pedestrian - PC
 * Aug 22 - Cadence of Hyrule - Switch
 * Aug 30 - Stein's Gate: Elite - Switch
   * Guess this counts as a book too, being a visual novel
+* Sept 2 - A Case of Distrust - PC
 
 ### Books I have finished reading
 * Jan 24 - Word by Word: The Secret Life of Dictionaries - Kory Stamper
@@ -50,10 +51,10 @@ I have more in my rotation than are in the list, but these are the ones I listen
 * Apr 30 - Quackery: A Brief History of the Worst Ways to Cure Everything - Lydia Kana, Nate Pedersen
 * May 12 - Warcross - Marie Lu
 * May 27 - The Secret Lives of Color - Kassia St. Clair
-* Jun 25 - American Gods - Neil Gaiman
-* Jul 9 - Wildcard - Marie Lu
+* June 25 - American Gods - Neil Gaiman
+* July 9 - Wildcard - Marie Lu
   * Sequel to Warcross
-* Jul 20 - A Wizard of Earthsea - Ursula K. Le Guin
+* July 20 - A Wizard of Earthsea - Ursula K. Le Guin
 * Aug 2 - The Jungle Book - Rudyard Kipling
 
 ## 2019
