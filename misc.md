@@ -43,6 +43,7 @@ I have more in my rotation than are in the list, but these are the ones I listen
 * Aug 30 - Stein's Gate: Elite - Switch
   * Guess this counts as a book too, being a visual novel
 * Sept 2 - A Case of Distrust - PC
+* Sept 7 - Zero Escape: Nine Hours, Nine Persons, Nine Doors - PC
 
 ### Books I have finished reading
 * Jan 24 - Word by Word: The Secret Life of Dictionaries - Kory Stamper
@@ -56,6 +57,7 @@ I have more in my rotation than are in the list, but these are the ones I listen
   * Sequel to Warcross
 * July 20 - A Wizard of Earthsea - Ursula K. Le Guin
 * Aug 2 - The Jungle Book - Rudyard Kipling
+* Sept 12 - Theodore Rex - Edmund Morris
 
 ## 2019
 ### Games I have beaten
