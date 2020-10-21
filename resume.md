@@ -63,6 +63,7 @@ permalink: /resume/
     * Angular
     * ExtJS
     * JQuery
+    * VueJS/Vuex
   * Kubernetes
   * Sed
   * Typescript

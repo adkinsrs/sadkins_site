@@ -7,21 +7,13 @@ permalink: /miscellaneous/
 # Miscellaneous things
 For this page I am going to keep track of various things I am doing, in list form
 
-## Current podcasts I am listening to
-I have more in my rotation than are in the list, but these are the ones I listen to most frequently (i.e. have topics that interest me the most)
-* Punch Up the Jam
+## A selection of current podcasts I am listening to
 * Ologies
 * Stuff You Should Know
-* The Legacy Music Hour Video Game Podcast
-  * Mostly for the "mixtape" episodes
 * The Art of Manliness Podcast
 * StarTalk
-  * Mostly for the "Playing With Science" episodes
 * My Brother, My Brother, and Me
-* The Thomahawk Show
-  * Not a fan of the Cleveland Browns by any means (Go Ravens!), but I like the dynamic of Joe Thomas and Andrew Hawkins. And I guess there is a charm in hearing from the perspective of another team's fanbase.
 * Conan O'Brien Needs a Friend
-* Ludology
 * A Way with Words
 
 ## 2020
@@ -62,6 +54,7 @@ I have more in my rotation than are in the list, but these are the ones I listen
 * Sept 12 - Theodore Rex - Edmund Morris
 * Sept 18 - Code: The Hidden Language of Computer Hardware and Software - Charles Petzold
 * Sept 21 - Make Your Bed: Little Things That Can Change Your Life...And Maybe the World - Admiral William H. McRaven
+* Oct 20 - Anansi Boys - Neil Gaiman
 
 ## 2019
 ### Games I have beaten
