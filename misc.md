@@ -38,6 +38,7 @@ For this page I am going to keep track of various things I am doing, in list for
   * Guess this counts as a book too, being a visual novel
 * Sept 2 - A Case of Distrust - PC
 * Sept 7 - Zero Escape: Nine Hours, Nine Persons, Nine Doors - PC
+* Oct 22 - Zero Escape: Virtue's Last Reward - PC
 
 ### Books I have finished reading
 * Jan 24 - Word by Word: The Secret Life of Dictionaries - Kory Stamper
