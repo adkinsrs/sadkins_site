@@ -56,6 +56,7 @@ For this page I am going to keep track of various things I am doing, in list for
 * Sept 18 - Code: The Hidden Language of Computer Hardware and Software - Charles Petzold
 * Sept 21 - Make Your Bed: Little Things That Can Change Your Life...And Maybe the World - Admiral William H. McRaven
 * Oct 20 - Anansi Boys - Neil Gaiman
+* Nov 17 - Jailbird - Kurt Vonnegut
 
 ## 2019
 ### Games I have beaten
