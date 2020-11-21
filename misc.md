@@ -39,7 +39,8 @@ For this page I am going to keep track of various things I am doing, in list for
 * Sept 2 - A Case of Distrust - PC
 * Sept 7 - Zero Escape: Nine Hours, Nine Persons, Nine Doors - PC
 * Oct 22 - Zero Escape: Virtue's Last Reward - PC
-* Nov 19 - Bug Fables: The Everlasting Sapling - Switch
+* Nov 18 - Bug Fables: The Everlasting Sapling - Switch
+* Nov 21 - Panzer Dragoon Remake - Stadia
 
 ### Books I have finished reading
 * Jan 24 - Word by Word: The Secret Life of Dictionaries - Kory Stamper
