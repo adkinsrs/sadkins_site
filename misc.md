@@ -41,6 +41,7 @@ For this page I am going to keep track of various things I am doing, in list for
 * Oct 22 - Zero Escape: Virtue's Last Reward - PC
 * Nov 18 - Bug Fables: The Everlasting Sapling - Switch
 * Nov 21 - Panzer Dragoon Remake - Stadia
+* Dec 5 - SteamWorld Quest: Hand of Gilgamech - Stadia
 
 ### Books I have finished reading
 * Jan 24 - Word by Word: The Secret Life of Dictionaries - Kory Stamper
