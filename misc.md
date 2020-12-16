@@ -60,6 +60,8 @@ For this page I am going to keep track of various things I am doing, in list for
 * Sept 21 - Make Your Bed: Little Things That Can Change Your Life...And Maybe the World - Admiral William H. McRaven
 * Oct 20 - Anansi Boys - Neil Gaiman
 * Nov 17 - Jailbird - Kurt Vonnegut
+* Dec 16 - Mini Habits for Weight Loss - Stephen Guise
+  * A note about this.  I bought this a few years ago in an attempt to develop more consistent healthy eating habits.  I actually lost close to 20 lbs prior to reading this book, due to a combination of marathon training and eliminating some processed things like soda and frozen meals.  But nevertheless this was a good reinforcement on strategies to keep the ship going.
 
 ## 2019
 ### Games I have beaten
