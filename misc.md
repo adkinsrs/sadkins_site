@@ -5,9 +5,11 @@ permalink: /miscellaneous/
 ---
 
 # Miscellaneous things
+
 For this page I am going to keep track of various things I am doing, in list form
 
 ## A selection of current podcasts I am listening to
+
 * Ologies
 * Stuff You Should Know
 * The Art of Manliness Podcast
@@ -16,8 +18,18 @@ For this page I am going to keep track of various things I am doing, in list for
 * Conan O'Brien Needs a Friend
 * A Way with Words
 
-## 2020
+## 2021
+
 ### Games I have beaten
+
+* Jan 2 - Zero Escape: Zero Time Dilemma - PC
+
+### Books I have read
+
+## 2020
+
+### Games I have beaten
+
 * Jan 1 - Return of the Obra Dinn - PC
 * Jan 25 - Final Fantasy XII: The Zodiac Age - Switch
   * I beat the original Playstation 2 release in the mid-2000s, so it was nice to revisit this underrated game
@@ -45,7 +57,8 @@ For this page I am going to keep track of various things I am doing, in list for
 * Dec 16 - Cthulhu Saves Christmas - PC
 * Dec 18 - Princess Remedy in a Heap of Trouble - PC
 
-### Books I have finished reading
+### Books I have read
+
 * Jan 24 - Word by Word: The Secret Life of Dictionaries - Kory Stamper
 * Mar 24 - Blue Highways - William Least Half-Moon
 * Apr 19 - The Hero of Ages: A Mistborn Novel - Brandon Sanderson
@@ -66,7 +79,9 @@ For this page I am going to keep track of various things I am doing, in list for
   * A note about this.  I bought this a few years ago in an attempt to develop more consistent healthy eating habits.  I actually lost close to 20 lbs prior to reading this book, due to a combination of marathon training and eliminating some processed things like soda and frozen meals.  But nevertheless this was a good reinforcement on strategies to keep the ship going.
 
 ## 2019
+
 ### Games I have beaten
+
 * Jan 7 - Yoku's Island Express - Switch
 * Feb 13 - GNOG - PC
 * Mar 17 - Gris - Switch
@@ -89,7 +104,8 @@ For this page I am going to keep track of various things I am doing, in list for
 * Dec 21 - The Touryst - Switch
 * Dec 31 - You Must Build a Boat - Android
 
-### Books I have finished reading
+### Books I have read
+
 * Jan 21 - Astrophysics for People in a Hurry - Neil Degrasse Tyson
 * Feb 2 - The Snowman - Jo Nesbø
 * Feb 15 - I'm Just Here for the Food - Alton Brown
