@@ -23,11 +23,14 @@ For this page I am going to keep track of various things I am doing, in list for
 ### Games I have beaten
 
 * Jan 2 - Zero Escape: Zero Time Dilemma - PC
+* Feb 10 - ABZU - Switch
+* Feb 26 - Wattam - PC
 
 ### Books I have read
 
 * Jan 17 - Subterranean - James Rollins
 * Feb 6 - Mrs. Dalloway - Virginia Woolf
+* Mar 6 - I Will Teach You To Be Rich - Ramit Sethi
 
 ## 2020
 
