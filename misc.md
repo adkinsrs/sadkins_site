@@ -32,6 +32,8 @@ For this page I am going to keep track of various things I am doing, in list for
 * Feb 6 - Mrs. Dalloway - Virginia Woolf
 * Mar 6 - I Will Teach You To Be Rich - Ramit Sethi
 * Mar 21 - Gulliver's Travels - Jonathan Swift
+* Apr 6 - Robert Sheckley Megapack
+  * 14 short stories and 1 novel
 
 ## 2020
 
