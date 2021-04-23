@@ -25,6 +25,8 @@ For this page I am going to keep track of various things I am doing, in list for
 * Jan 2 - Zero Escape: Zero Time Dilemma - PC
 * Feb 10 - ABZU - Switch
 * Feb 26 - Wattam - PC
+* Apr 17 - Halo: Anniversary Edition - PC
+* Apr 20 - Halo 3 - PC
 
 ### Books I have read
 
