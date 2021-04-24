@@ -27,6 +27,7 @@ For this page I am going to keep track of various things I am doing, in list for
 * Feb 26 - Wattam - PC
 * Apr 17 - Halo: Anniversary Edition - PC
 * Apr 20 - Halo 3 - PC
+* Apr 24 - Persona 5 Strikers - Switch
 
 ### Books I have read
 
