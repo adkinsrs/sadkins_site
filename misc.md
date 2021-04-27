@@ -37,6 +37,7 @@ For this page I am going to keep track of various things I am doing, in list for
 * Mar 21 - Gulliver's Travels - Jonathan Swift
 * Apr 6 - Robert Sheckley Megapack
   * 14 short stories and 1 novel
+* Apr 27 - Liquid Rules: The Delightful and Dangerous Substances That Flow Through Our Lives - Mark Miodownik
 
 ## 2020
 
