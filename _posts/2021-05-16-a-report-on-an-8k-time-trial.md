@@ -59,7 +59,7 @@ I almost actually skipped the 8k time trial entirely today! My stomach was givin
 
 ### Race
 
-[Stryd 8K time trial data]({{ "/assets/8kTimeTrial.png" | absulute_url }} "Stryd 8K time trial data")
+![Stryd 8K time trial data]({{ "/assets/8kTimeTrial.png" | absulute_url }} "Stryd 8K time trial data")
 
 Regarding my goal paces, Goal A is the extrapolated pace when I plug in my 5k personal best into a "running pace equivalent calculator". Goal B would still represent an improved pace over my 10k personal best (47:00 set back in 2015).  Goal C was my pessimistic goal. By the way, the splits posted earlier vs in the picture differ slightly because the earlier splits were taken from my Garmin and the latter are from Stryd.
 
