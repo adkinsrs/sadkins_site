@@ -100,10 +100,15 @@ a {
   // }
 }
 
+// SAdkins - Cannot figure out why many paragraphs are enclosed by "a" tags, which makes their tags weird.
+a > p {
+  color: $text-color;
+}
+
 .page-link, .post-link, .u-email {
   &:hover {
     text-decoration: underline;
-  } 
+  }
 }
 
 
@@ -142,7 +147,7 @@ code {
 pre {
   padding: 8px 12px;
   overflow-x: auto;
-  
+
   border: 1px solid $pre-border-color;
 
   -webkit-box-shadow: inset 0px 0px 3px 0px rgba(0,0,0,0.5);
