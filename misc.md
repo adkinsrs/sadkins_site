@@ -30,6 +30,7 @@ For this page I am going to keep track of various things I am doing, in list for
 * Apr 24 - Persona 5 Strikers - Switch
 * Apr 30 - We Were Here - PC
 * Jun 18 - The Room - Android
+* Jul 3 - Turnip Boy Commits Tax Evasion - Switch
 
 ### Books I have read
 
@@ -42,6 +43,7 @@ For this page I am going to keep track of various things I am doing, in list for
 * Apr 27 - Liquid Rules: The Delightful and Dangerous Substances That Flow Through Our Lives - Mark Miodownik
 * May 31 - Salt, Fat, Acid, Heat - Samin Nosrat
 * Jun 3 - The Godfather - Mario Puzo
+* Jun 20 - Brave New World - Aldous Huxley
 
 ## 2020
 
