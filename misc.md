@@ -45,6 +45,7 @@ For this page I am going to keep track of various things I am doing, in list for
 * May 31 - Salt, Fat, Acid, Heat - Samin Nosrat
 * Jun 3 - The Godfather - Mario Puzo
 * Jun 20 - Brave New World - Aldous Huxley
+* Jul 11 - Homeland (The Legend of Drizzt: Book 1) - R.A. Salvatore
 
 ## 2020
 
