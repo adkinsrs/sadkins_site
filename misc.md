@@ -46,6 +46,7 @@ For this page I am going to keep track of various things I am doing, in list for
 * Jun 3 - The Godfather - Mario Puzo
 * Jun 20 - Brave New World - Aldous Huxley
 * Jul 11 - Homeland (The Legend of Drizzt: Book 1) - R.A. Salvatore
+* Jul 28 - Deadeye Dick - Kurt Vonnegut
 
 ## 2020
 
