@@ -32,6 +32,7 @@ For this page I am going to keep track of various things I am doing, in list for
 * Jun 18 - The Room - Android
 * Jul 3 - Turnip Boy Commits Tax Evasion - Switch
 * Jul 7 - Dissembler - Android
+* Aug 18 - Halo 3: ODST - PC
 
 ### Books I have read
 
