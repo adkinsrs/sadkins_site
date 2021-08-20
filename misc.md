@@ -33,6 +33,7 @@ For this page I am going to keep track of various things I am doing, in list for
 * Jul 3 - Turnip Boy Commits Tax Evasion - Switch
 * Jul 7 - Dissembler - Android
 * Aug 18 - Halo 3: ODST - PC
+* Aug 19 - Halo 2: Anniversary Edition - PC
 
 ### Books I have read
 
