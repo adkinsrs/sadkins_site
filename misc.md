@@ -36,6 +36,7 @@ For this page I am going to keep track of various things I am doing, in list for
 * Aug 19 - Halo 2: Anniversary Edition - PC
 * Aug 23 - Contradiction - PC
   * It's a neat full-motion video murder-mystery game
+* Sep 8 - What the Golf - PC
 
 ### Books I have read
 
@@ -52,6 +53,7 @@ For this page I am going to keep track of various things I am doing, in list for
 * Jul 11 - Homeland (The Legend of Drizzt: Book 1) - R.A. Salvatore
 * Jul 28 - Deadeye Dick - Kurt Vonnegut
 * Aug 22 - How Your House Works - Charlie Wing
+* Aug 25 - Born to Run - Christopher McDougall
 
 ## 2020
 
