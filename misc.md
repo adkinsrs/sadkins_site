@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Miscellaneous
+title: "Miscellaneous"
 permalink: /miscellaneous/
 ---
 
@@ -56,6 +56,7 @@ For this page I am going to keep track of various things I am doing, in list for
 * Jul 28 - Deadeye Dick - Kurt Vonnegut
 * Aug 22 - How Your House Works - Charlie Wing
 * Aug 25 - Born to Run - Christopher McDougall
+* Sep 18 - Sand - Hugh Howey
 
 ## 2020
 

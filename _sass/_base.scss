@@ -101,7 +101,7 @@ a {
 }
 
 // SAdkins - Cannot figure out why many paragraphs are enclosed by "a" tags, which makes their tags weird.
-a > p {
+.post-content > p {
   color: $text-color;
 }
 

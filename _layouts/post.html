@@ -2,7 +2,6 @@
 layout: default
 ---
 <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
-
   <header class="post-header">
     <h1 class="post-title" itemprop="name headline">{{ page.title | escape }}</h1>
     <p class="post-meta">{{ page.date | date: "%b %d, %Y" }}</p>
@@ -17,5 +16,4 @@ layout: default
     <a class="post-tags" href="/tags/{{ tag }}/">{{ tag }}</a>
     {% endfor %}
   </small>
-
 </article>
