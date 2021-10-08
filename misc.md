@@ -39,6 +39,9 @@ For this page I am going to keep track of various things I am doing, in list for
 * Sep 8 - What the Golf - PC
 * Sep 11 - Warioware: Get it Together - Switch
 * Sep 14 - Picross S - Switch
+* Sep 20 - Halo: Reach - PC
+* Sep 21 - TOEM - PC
+* Oct 7 - Halo 4 - PC
 
 ### Books I have read
 
