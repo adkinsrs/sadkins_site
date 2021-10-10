@@ -1,0 +1,48 @@
+---
+layout: post
+title:  "How I went from Marathon Training to Volunteering at the Baltimore Running Festival"
+date: 2021-10-10
+tags: running
+---
+
+Yesterday was the 20th iteration of the Baltimore Running Festival (well actually the 21st but COVID made the 20th anniversary event an all\-virtual one). It was supposed to be my first and only marathon \- a culmination of the hard work and training I did all summer. However, as the title of the post suggests, things took quite a different turn.
+
+## Marathon Training Woes
+
+Training went pretty well during the summer for the most part. I got up early before work and did my runs. I rarely had to take a day off due to fatigue or sickness. But in late July, little injuries started to trickle in. I dealt with a hip flexor issue that caused me to miss a couple runs, including my long run that weekend. This concerned me a bit as I have never had running injuries outside of big toe tendonitis, and I went on a web searching spree trying to figure out what I was doing wrong and how to fix it. I settled on two things: 1) tried to run downhill too fast in new shoes in my first long run in them and 2) engaged my quads too much. When I returned to running, I put more emphasis on my glutes and I actually felt more efficient in my running.
+
+Two weeks later, which was supposed to be a half\-marathon time trial, I had to miss a couple more runs due to a strained muscle on the bottom of my foot. In all fairness that was more of a stupidity thing by me as I tried to go really fast. I returned to running a few days later and continued to refine emphasizing my glutes when I was running. However, this was probably messing up my gait even worse. Compounding things was the cumulative fatigue that marathon training brings as well.  I was also increasingly neglecting strength training as the mileage load was starting to increase.
+
+On September 5th, I did my longest run ever... an 18\-miler that was about 2 hrs and 54 mins in length. This weekend and the next were supposed to be my two longest runs of the training, and then I could enjoy the much\-deserved tapering period. Early in this run, I felt a soreness in my hip that eventually went away, but towards the end of the run I started to feel it in my glute medius area that became uncomfortable enough for me to cut my run six\-minutes short of the three\-hour mark. I was hobbling after the run because of the hip pain but I was ecstatic for my accomplishment. Doing a 3\-hr run is the confidence booster that really gives you the feeling that you survive the marathon. A pain\-free easy run a couple days later went by, and then the hip pain caused me to cut a speedwork run short the next day. I missed the next weekend's 3\-hr run and was hoping things would improve during the taper.
+
+[Link to run if anyone is deathly curious](https://www.stryd.com/powercenter/runs/5088661947318272)
+
+After taking a couple days off, I did another pain\-free easy run. The next day's threshold run ended with me cutting it short again due to hip pain, just like the speed run the week before. I decided to take more time off and just get to the marathon healthy. After taking nearly a week off and mixing in some group workouts with friends, I did the elliptical machine for an hour without pain and did another pain\-free easy run. In my tapering long run, I ran fine for 8 miles, then out of nowhere the hip got to me. I gutted it out for nearly 3 additional miles before I decided it was just too uncomfortable to continue. I was quite devastated.
+
+Initially I believed, with some well\-placed Google searches, that my issue was hip bursitis and a gluteus medius strain. But in the final run I noted that this pain only occurred after I pushed off the ground. I had no issues with mobility either, and I was starting to believe I had a potential early\-stage stress fracture in my femur. The sports medicine doctor seemed to agree with me, but the ensuing MRI ended up showing that the issue aligned more with my first suspicions: the hip bursitis/glute medial strain combo.
+
+By this point I had resigned myself to the fact that I was going to have to drop out of the Baltimore Marathon. Some depression did follow as well... it is very disappointing to put in months of training and not reach the end of the journey. I considered downgrading to the 10K distance (since I ran 8 miles pain\-free in my previous run), but my confidence in running a pain\-free race was shot. What I decided to do instead was something I had wanted to do for a while but had yet to: volunteer for the race.
+
+## Volunteering
+
+I arrived at the finish line for the Baltimore Running festival at 6am. After a few moments of being unsure where I was needed, I settled on unpacking boxes of chips, fruit, chewy granola bars, fruit bars, and other stuff. This stuff needed to be unpacked before the 5K race started around 7:30am, and the fastest runners started finishing within 15 minutes. With the 10K and marathon starting at 8am and the half\-marathon starting at 9:45am, there would be end up being two main clusters of finishers (5k/10k early, half/full later) where we needed to be on our game to keep things stocked for the runners to grab.
+
+![Early stages of food unpacking]({{ "/assets/BRF2021_early_setup.jpg" | absulute_url }} "Early stages of food unpacking")
+![Lots of food]({{ "/assets/BRF2021_food" | absulute_url }} "Lots of food")
+
+One job that I found a bit difficult to do, due to my non\-confrontational personality, was telling runners to limit themselves to just one or two of a single item, and this is important to ensure that later runners would have something to eat and refuel with. A couple of finishers were snippy with me when I asked them to be considerate to later finishers, but most were understanding. I was surprised in particular with how many 5K runners were greedy with taking fruit bars and bags of chips, given that this race takes the least out of you among the four races available. Fortunately the majority of runners, 5K or any other distance, were good followers of what I would consider runner's etiquette.
+
+![Finishers getting food]({{ "/assets/BRF_2021_finishers.jpg" | absulute_url }} "Finishers getting food")
+
+Overall I found the job to be a very enriching experience. A lot of runners do thank you for your volunteer efforts. From the runner's perspective, you do not get a sense of the amount of runners participating, but the volunteers at the finish line see just about everyone passing through. I watched the 4,500 runners start the 5K race (awesome vantage point btw), and the time from first starter to final starter seemed to last forever... something that I cannot visualize standing in one spot amongst the runners. I now have a better idea of some of the logistics required to execute a successful race. There was also the opportunity to meet and mingle with other volunteers, security, medical personnel, and of course, runners.
+
+![5K runners waiting to start]({{ "/assets/BRF2021_before_5k.jpg" | absulute_url }} "5K runners waiting to start")
+![5K has started]({{ "/assets/BRF2021_5k_start.jpg" | absulute_url }} "5K has started")
+
+I will admit, when the marathon finishers started to enter the finisher's area, I started to feel a bit down, particularly when my projected finishing time started to come around. Any one of those people finishing could have been me. I felt a bit incomplete... I did training up through the hardest moments but did not have the result (a medal) to show for it. But I also realize that I am certainly not the only one that did not show up to the starting line, and I do realize that realistically I would have been miserable attempting the race with hip bursitis. Safety over glory I guess. Seeing so many people finish did make me feel proud for their accomplishments though.
+
+## What next?
+
+Now that the running festival is over, I am back to doing smaller runs as part of a rehab of sorts. I did a couple of 3\-mile runs this week which are the first runs I have done in over two weeks. My legs are super fresh... fresh enough to let me run a hard but surprisingly comfortable 5\-miler this morning at close to my half\-marathon pace. I believe that I may have adjusted my gait too much towards the glutes when I was making adjustments after the hip flexor issues, and so I am trying to now emphasize my hips more instead. In particular, I started to notice that my knees were slightly touching on my slower runs which is a sign of weak or underutilized hips, so I am paying extra attention to that when I run. I have also started to attend the "land training" sessions my dragon boat puts on with a personal trainer, though I am having to make modifications due to the bursitis. I have nothing really to train for at the moment, though I am considering making another attempt at setting a 5K PR this winter.
+
+Next year, I definitely plan to return to the Baltimore Running Festival but not for a full marathon. I realized that I really missed paddling with the Baltimore Dragon Boat Club this summer, and I would like to emphasize practicing and racing with them next summer. Perhaps I will shoot for the 10K or maybe the half\-marathon in the next racing event. If I end up doing another marathon, it's gonna have to be when I get the itch for training for it again. Maybe it will be at the 25th anniversary of the Baltimore Running Festival (I'll turn 40 then)... who knows? Hopefully I can actually make it to the start line for that one.
