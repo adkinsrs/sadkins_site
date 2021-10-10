@@ -28,7 +28,7 @@ By this point I had resigned myself to the fact that I was going to have to drop
 I arrived at the finish line for the Baltimore Running festival at 6am. After a few moments of being unsure where I was needed, I settled on unpacking boxes of chips, fruit, chewy granola bars, fruit bars, and other stuff. This stuff needed to be unpacked before the 5K race started around 7:30am, and the fastest runners started finishing within 15 minutes. With the 10K and marathon starting at 8am and the half\-marathon starting at 9:45am, there would be end up being two main clusters of finishers (5k/10k early, half/full later) where we needed to be on our game to keep things stocked for the runners to grab.
 
 ![Early stages of food unpacking]({{ "/assets/BRF2021_early_setup.jpg" | absulute_url }} "Early stages of food unpacking")
-![Lots of food]({{ "/assets/BRF2021_food" | absulute_url }} "Lots of food")
+![Lots of food]({{ "/assets/BRF2021_food.jpg" | absulute_url }} "Lots of food")
 
 One job that I found a bit difficult to do, due to my non\-confrontational personality, was telling runners to limit themselves to just one or two of a single item, and this is important to ensure that later runners would have something to eat and refuel with. A couple of finishers were snippy with me when I asked them to be considerate to later finishers, but most were understanding. I was surprised in particular with how many 5K runners were greedy with taking fruit bars and bags of chips, given that this race takes the least out of you among the four races available. Fortunately the majority of runners, 5K or any other distance, were good followers of what I would consider runner's etiquette.
 
