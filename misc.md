@@ -60,6 +60,7 @@ For this page I am going to keep track of various things I am doing, in list for
 * Aug 22 - How Your House Works - Charlie Wing
 * Aug 25 - Born to Run - Christopher McDougall
 * Sep 18 - Sand - Hugh Howey
+* Oct 25 - The Address Book: What Street Addresses Reveal about Identity, Race, Wealth and Power - Deirdre Mask
 
 ## 2020
 
