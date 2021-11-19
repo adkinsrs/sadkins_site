@@ -17,6 +17,7 @@ For this page I am going to keep track of various things I am doing, in list for
 * My Brother, My Brother, and Me
 * Conan O'Brien Needs a Friend
 * A Way with Words
+* The Thom and Hawk Show
 
 ## 2021
 
@@ -42,6 +43,8 @@ For this page I am going to keep track of various things I am doing, in list for
 * Sep 20 - Halo: Reach - PC
 * Sep 21 - TOEM - PC
 * Oct 7 - Halo 4 - PC
+* Nov 18 - Binding of Isaac: Repentance - Switch
+  * Hit an ending with credits.  Given the difficulty of the game, I was content to call that a win (though I'm still gonna go for more)
 
 ### Books I have read
 
@@ -61,6 +64,7 @@ For this page I am going to keep track of various things I am doing, in list for
 * Aug 25 - Born to Run - Christopher McDougall
 * Sep 18 - Sand - Hugh Howey
 * Oct 25 - The Address Book: What Street Addresses Reveal about Identity, Race, Wealth and Power - Deirdre Mask
+* Nov 17 - I, Robot - Isaac Asimov
 
 ## 2020
 
