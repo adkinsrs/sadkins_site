@@ -45,6 +45,7 @@ For this page I am going to keep track of various things I am doing, in list for
 * Oct 7 - Halo 4 - PC
 * Nov 18 - Binding of Isaac: Repentance - Switch
   * Hit an ending with credits.  Given the difficulty of the game, I was content to call that a win (though I'm still gonna go for more)
+* Nov 26 - Gnosia - Switch
 
 ### Books I have read
 
