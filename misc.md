@@ -67,6 +67,7 @@ For this page I am going to keep track of various things I am doing, in list for
 * Sep 18 - Sand - Hugh Howey
 * Oct 25 - The Address Book: What Street Addresses Reveal about Identity, Race, Wealth and Power - Deirdre Mask
 * Nov 17 - I, Robot - Isaac Asimov
+* Dec 4 - Dracula - Bram Stoker
 
 ## 2020
 
