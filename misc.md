@@ -19,6 +19,15 @@ For this page I am going to keep track of various things I am doing, in list for
 * A Way with Words
 * The Thom and Hawk Show
 
+## 2022
+
+### Games I have beaten
+
+* Jan 3 - Jazzpunk - PC
+* Jan 17 - Simulacra - PC
+
+### Books I have read
+
 ## 2021
 
 ### Games I have beaten
@@ -46,6 +55,9 @@ For this page I am going to keep track of various things I am doing, in list for
 * Nov 18 - Binding of Isaac: Repentance - Switch
   * Hit an ending with credits.  Given the difficulty of the game, I was content to call that a win (though I'm still gonna go for more)
 * Nov 26 - Gnosia - Switch
+* Dec 23 - The Haunted Island, a Frog Detective Game - PC
+* Dec 27 - Frog Detective 2: The Case of the Invisible Wizard - PC
+* Dec 31 - Tales of Arise - PC
 
 ### Books I have read
 
@@ -66,6 +78,7 @@ For this page I am going to keep track of various things I am doing, in list for
 * Sep 18 - Sand - Hugh Howey
 * Oct 25 - The Address Book: What Street Addresses Reveal about Identity, Race, Wealth and Power - Deirdre Mask
 * Nov 17 - I, Robot - Isaac Asimov
+* Dec 27 - The World Atlas of Coffee - James Hoffmann
 
 ## 2020
 
