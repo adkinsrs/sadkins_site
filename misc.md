@@ -28,6 +28,8 @@ For this page I am going to keep track of various things I am doing, in list for
 
 ### Books I have read
 
+* Jan 22 - The Bat - Jo Nesbø
+
 ## 2021
 
 ### Games I have beaten
