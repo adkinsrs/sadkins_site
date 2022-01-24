@@ -25,6 +25,7 @@ For this page I am going to keep track of various things I am doing, in list for
 
 * Jan 3 - Jazzpunk - PC
 * Jan 17 - Simulacra - PC
+* Jan 23 - Agent A: A Puzzle in Disguise - Android
 
 ### Books I have read
 
