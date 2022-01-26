@@ -11,7 +11,7 @@ permalink: /resume/
   * BS - Biology
   * BA - International Studies (Asian/Pacific concentration)
 * Virginia Commmonwealth University - 2011
-  * MBin - Bioinformatics
+  * MS - Bioinformatics (Professional Science Masters option)
 
 ## Employment
 * Institute for Genome Sciences - University of Maryland - Baltimore
