@@ -26,10 +26,12 @@ For this page I am going to keep track of various things I am doing, in list for
 * Jan 3 - Jazzpunk - PC
 * Jan 17 - Simulacra - PC
 * Jan 23 - Agent A: A Puzzle in Disguise - Android
+* Feb 13 - Carto - PC
 
 ### Books I have read
 
 * Jan 22 - The Bat - Jo Nesbø
+* Feb 13 - The Atopia Chronicles - Matthew Mather
 
 ## 2021
 
