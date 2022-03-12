@@ -27,6 +27,9 @@ For this page I am going to keep track of various things I am doing, in list for
 * Jan 17 - Simulacra - PC
 * Jan 23 - Agent A: A Puzzle in Disguise - Android
 * Feb 13 - Carto - PC
+* Feb 13 - Monument Valley - Android
+  * Just the base game.  Going to play the expansion but will not record it as a "win"
+* Mar 12 - The Solitaire Conspiracy - PC
 
 ### Books I have read
 

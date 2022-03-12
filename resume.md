@@ -18,9 +18,9 @@ permalink: /resume/
   * Bioinformatics Software Engineer I - Aug 2011 - July 2016
   * Bioinformatics Software Engineer II - July 2016 - Present
     * Current roles:
-      * Active development of the Neuroscience Multi-Omic (NeMO) Data Archive for processing and storing neurological bioinformatics data
       * Developer for the gene Expression Analysis Resource (gEAR) portal for analysis and visualization of multi-omic data related to hearing
     * Past roles:
+      * Development of the Neuroscience Multi-Omic (NeMO) Data Archive for processing and storing neurological bioinformatics data
       * Developed for and maintained various analyses pipelines
         * Prokaryotic Genome Annotation Pipeline (lead developer)
         * Transcriptomics Pipeline
@@ -53,6 +53,8 @@ permalink: /resume/
   * Amazon EC2
   * CSS
   * Flask
+  * Javascript
+    * JQuery
   * Julia
   * SQL
   * SVN
@@ -62,7 +64,6 @@ permalink: /resume/
   * Javascript
     * Angular
     * ExtJS
-    * JQuery
     * VueJS/Vuex
   * Kubernetes
   * Sed
