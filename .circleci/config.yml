@@ -47,8 +47,6 @@ jobs:
   build_site:
     docker:
       - image: cimg/ruby:3.1.1
-    environment:
-      NOKOGIRI_USE_SYSTEM_LIBRARIES: 1
     steps:
       - checkout
       - restore_cache:
