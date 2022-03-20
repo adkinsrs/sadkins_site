@@ -14,7 +14,7 @@ env:
 ## Turn off strict host checking
 ## unzip encrypted ssh private key and _config.yml
 before_install:
-    - gem update --system '2.7.9'
+    - gem update --system '3.3.7'
     - echo -e "Host ssh.phx.nearlyfreespeech.net\n\tStrictHostKeyChecking no\n" >> ~/.ssh/config
     - openssl aes-256-cbc -K $encrypted_ccfb71d23f49_key -iv $encrypted_ccfb71d23f49_iv -in secrets.tar.enc -out secrets.tar -d
     - tar xvf secrets.tar
