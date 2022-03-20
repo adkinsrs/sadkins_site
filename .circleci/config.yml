@@ -95,5 +95,9 @@ workflows:
     # Inside the workflow, you define the jobs you want to run.
     jobs:
       - before_build
-      - build_site
-      - after_build
+      - build_site:
+          requires:
+            - before_build
+      - after_build:
+          requires:
+            - build_site
