@@ -8,9 +8,10 @@ layout: default
   </header>
 
   <div class="post-content" itemprop="articleBody">
+    <a></a>	<!-- Adding this to stop bug where {{ content }} renders in 'a' tags -->
     {{ content }}
   </div>
-  
+
   <small>
     {% for tag in page.tags %}
     <a class="post-tags" href="/tags/{{ tag }}/">{{ tag }}</a>

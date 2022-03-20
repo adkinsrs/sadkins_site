@@ -95,17 +95,6 @@ a {
   color: $brand-color;
   text-decoration: none;
 
-  // &:visited {
-  //   color: darken($brand-color, 15%);
-  // }
-}
-
-// SAdkins - Cannot figure out why many paragraphs are enclosed by "a" tags, which makes their tags weird.
-.post-content > p {
-  color: $text-color;
-}
-
-.page-link, .post-link, .u-email {
   &:hover {
     text-decoration: underline;
   }
