@@ -36,6 +36,9 @@ For this page I am going to keep track of various things I am doing, in list for
 
 * Jan 22 - The Bat - Jo Nesbø
 * Feb 13 - The Atopia Chronicles - Matthew Mather
+* Mar 21 - All Quiet of the Western Front - Erich Maria Remarque
+  * I actually read this in college, and quite enjoyed it.  Bought it a few years ago to read again because it felt like a re-read.
+  * I also read the entire book today.  Waiting around in jury duty will compell you to do that.
 
 ## 2021
 
