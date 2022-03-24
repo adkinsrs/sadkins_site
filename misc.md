@@ -31,6 +31,8 @@ For this page I am going to keep track of various things I am doing, in list for
   * Just the base game.  Going to play the expansion but will not record it as a "win"
 * Mar 12 - The Solitaire Conspiracy - PC
 * Mar 18 - A Short Hike - PC
+* Mar 21 - Aperture Desk Job - PC
+* Mar 23 - Paper Mario: The Origami King - Switch
 
 ### Books I have read
 
