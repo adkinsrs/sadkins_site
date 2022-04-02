@@ -26,9 +26,6 @@ jobs:
           name: Update gem
           command: gem update --system '3.3.7'
       - run:
-          name: Disable StrictHostKeyChecking
-          command: echo -e "Host ssh.phx.nearlyfreespeech.net\n\tStrictHostKeyChecking no\n" >> ~/.ssh/config
-      - run:
           name: Decode secrets file
           command: gpg --batch --decrypt --passphrase=${GPG_PASS} secrets.tar.gpg > secrets.tar
       - run:
@@ -40,7 +37,6 @@ jobs:
           paths:
             - Rakefile
             - .travis/ssh_key
-            - .ssh/config
       - run: bundle install
       - run: bundle clean --force
       - run:
@@ -98,6 +94,9 @@ jobs:
       - run:
           name: Install rsync
           command: sudo apt -qq update && sudo apt -qq install -y --no-install-recommends rsync
+      - run:
+          name: Disable StrictHostKeyChecking
+          command: echo -e "Host ssh.phx.nearlyfreespeech.net\n\tStrictHostKeyChecking no\n" >> ~/.ssh/config
       - run:
           name: Deploy with Rake
           command: rake deploy
