@@ -35,7 +35,7 @@ jobs:
           name: Extract secrets file
           command: tar xvf secrets.tar
       # Persist the specified paths (workspace/echo-output) into the workspace for use in downstream job.
-      - persist_to_workspace
+      - persist_to_workspace:
           root: .
           paths:
             - secrets.tar
@@ -72,7 +72,7 @@ jobs:
       - run:
           name: HTML Validation
           command: bundle exec htmlproofer ./_site --disable-external
-      - persist_to_workspace
+      - persist_to_workspace:
           root: .
           paths:
             - _site
@@ -82,7 +82,7 @@ jobs:
       - image: cimg/ruby:3.1.1
     steps:
       - checkout
-      - attach_workspace
+      - attach_workspace:
           at: .
       - run:
           name: Tighten permissions of SSH key
