@@ -30,7 +30,7 @@ jobs:
           command: echo -e "Host ssh.phx.nearlyfreespeech.net\n\tStrictHostKeyChecking no\n" >> ~/.ssh/config
       - run:
           name: Decode secrets file
-          command: openssl aes-256-cbc -K ${OPENSSL_KEY} -iv ${OPENSSL_IV} -in secrets.tar.enc -out secrets.tar -d
+          command: gpg --decrypt --passphrase $GPG_PASS secrets.tar.gpg
       - run:
           name: Extract secrets file
           command: tar xvf secrets.tar
