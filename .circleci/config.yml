@@ -94,6 +94,9 @@ jobs:
           name: Add SSH key
           command: ssh-add .travis/ssh_key
       - run:
+          name: Install rsync
+          command: sudo apt install rsync
+      - run:
           name: Deploy with Rake
           command: rake deploy
 
