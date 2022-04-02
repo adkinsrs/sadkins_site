@@ -38,7 +38,8 @@ jobs:
       - persist_to_workspace:
           root: .
           paths:
-            - secrets.tar
+            - Rakefile
+            - .travis/ssh_key
       - run: bundle install
       - run: bundle clean --force
       - run:
@@ -75,7 +76,7 @@ jobs:
       - persist_to_workspace:
           root: .
           paths:
-            - _site
+            - _site/*
 
   after_build:
     docker:
