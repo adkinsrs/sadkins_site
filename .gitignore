@@ -5,3 +5,4 @@ _site
 secrets.tar
 Rakefile
 travis.log
+.jekyll-cache
