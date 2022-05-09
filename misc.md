@@ -44,6 +44,7 @@ For this page I am going to keep track of various things I am doing, in list for
   * I actually read this in college, and quite enjoyed it.  Bought it a few years ago to read again because it felt like a re-read.
   * I also read the entire book today.  Waiting around in jury duty will compell you to do that.
 * Apr 11 - The Hunt for Red October - Tom Clancy
+* May 8 - Digital Minimalism - Cal Newport
 
 ## 2021
 
