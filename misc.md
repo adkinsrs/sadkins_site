@@ -35,6 +35,7 @@ For this page I am going to keep track of various things I am doing, in list for
 * Mar 23 - Paper Mario: The Origami King - Switch
 * Apr 25 - Final Fantasy IX - PC
   * I beat this lots of times as a kid. Decided to buy and replay it after I learned there were mods for PC that let you recruit a new party member and let you pretty up the graphics.
+* May 28 - The Legend of Zelda: Breath of the Wild - Switch
 
 ### Books I have read
 
@@ -45,6 +46,7 @@ For this page I am going to keep track of various things I am doing, in list for
   * I also read the entire book today.  Waiting around in jury duty will compell you to do that.
 * Apr 11 - The Hunt for Red October - Tom Clancy
 * May 8 - Digital Minimalism - Cal Newport
+* May 15 - A Confederacy of Dunces - John Kennedy Toole
 
 ## 2021
 
