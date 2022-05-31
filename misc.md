@@ -36,6 +36,7 @@ For this page I am going to keep track of various things I am doing, in list for
 * Apr 25 - Final Fantasy IX - PC
   * I beat this lots of times as a kid. Decided to buy and replay it after I learned there were mods for PC that let you recruit a new party member and let you pretty up the graphics.
 * May 28 - The Legend of Zelda: Breath of the Wild - Switch
+* May 30 - Hexcells - PC
 
 ### Books I have read
 
