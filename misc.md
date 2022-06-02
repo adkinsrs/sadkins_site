@@ -37,6 +37,7 @@ For this page I am going to keep track of various things I am doing, in list for
   * I beat this lots of times as a kid. Decided to buy and replay it after I learned there were mods for PC that let you recruit a new party member and let you pretty up the graphics.
 * May 28 - The Legend of Zelda: Breath of the Wild - Switch
 * May 30 - Hexcells - PC
+* Jun 2 - Mom Hid My Game 2 - Switch
 
 ### Books I have read
 
