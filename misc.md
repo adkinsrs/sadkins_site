@@ -49,6 +49,7 @@ For this page I am going to keep track of various things I am doing, in list for
 * Apr 11 - The Hunt for Red October - Tom Clancy
 * May 8 - Digital Minimalism - Cal Newport
 * May 15 - A Confederacy of Dunces - John Kennedy Toole
+* Jun 6 - The Law of Alloy: A Mistborn Novel - Brandon Sanderson
 
 ## 2021
 
