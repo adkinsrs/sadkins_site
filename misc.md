@@ -39,6 +39,8 @@ For this page I am going to keep track of various things I am doing, in list for
 * May 30 - Hexcells - PC
 * Jun 2 - Mom Hid My Game 2 - Switch
 * Jun 21 - The Looker - PC
+* Jun 25 - Squarecells - PC
+* Jul 1 - Please Touch the Artwork - PC
 
 ### Books I have read
 
