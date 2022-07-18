@@ -136,7 +136,7 @@ This information is returned back to Javascript and stored as another JSON struc
 
 ## Use the JSON information to render the "select' HTML element via JSRender
 
-This step happens independently from retrieving the list of colors. Here I have a `<select>` element and a ![JSRender](https://www.jsviews.com/#home) template script that will allow us to render our JSON into a "select" options.
+This step happens independently from retrieving the list of colors. Here I have a `<select>` element and a [JSRender](https://www.jsviews.com/#home) template script that will allow us to render our JSON into a "select" options.
 
 ```HTML
     <select class="form-control" id="colorscale_select" aria-describedby="colorscale_help"></select>
@@ -176,13 +176,13 @@ function loadColorscaleSelect (isContinuous=false) {
 
 You may notice that the final line of code has jQuery syntax. Some may find jQuery to be out-of-date with modern Javascript practices, but in my opinion if it ain't broke, don't fix it. There is no need to overengineer a solution by using a more modern framework like Vue or React for simple use-cases like this.
 
-Here is what the `<select>` element looks like without any flashy additions
+Here is what the `<select>` element looks like without any flashy additions. (Please excuse the shadow on the box... I took this screenshot when the console was open) 
 
 ![Select element populated with JSRender]({{ "/assets/colorscheme_select.png" | absulute_url }} "Select element populated with JSRender")
 
 ## Build a Select2 object in Javascript to serve as the visible "select" element
 
-The next step is to use ![Select2](https://select2.org/) to enhance the functionality of the `<select>` element. Select2 creates a jQuery function for the jQuery selector, and includes things like multiple selection, callbacks, dynamic option creation, and templating of the dropdown or selection.
+The next step is to use [Select2](https://select2.org/) to enhance the functionality of the `<select>` element. Select2 creates a jQuery function for the jQuery selector, and includes things like multiple selection, callbacks, dynamic option creation, and templating of the dropdown or selection.
 
 ```javascript
 // Load colorscale select2 object and populate with data
