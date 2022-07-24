@@ -53,6 +53,7 @@ For this page I am going to keep track of various things I am doing, in list for
 * May 8 - Digital Minimalism - Cal Newport
 * May 15 - A Confederacy of Dunces - John Kennedy Toole
 * Jun 6 - The Law of Alloy: A Mistborn Novel - Brandon Sanderson
+* Jul 13 - Amazonia - James Rollins
 
 ## 2021
 
