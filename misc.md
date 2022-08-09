@@ -42,6 +42,7 @@ For this page I am going to keep track of various things I am doing, in list for
 * Jun 25 - Squarecells - PC
 * Jul 1 - Please Touch the Artwork - PC
 * Jul 31 - Who Pressed Mute on Uncle Marcus - PC
+* Aug 7 - Pulpergeist - Playdate
 
 ### Books I have read
 
