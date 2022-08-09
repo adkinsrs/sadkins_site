@@ -56,6 +56,8 @@ For this page I am going to keep track of various things I am doing, in list for
 * May 15 - A Confederacy of Dunces - John Kennedy Toole
 * Jun 6 - The Law of Alloy: A Mistborn Novel - Brandon Sanderson
 * Jul 13 - Amazonia - James Rollins
+* Aug 9 - The Tipping Point - Malcolm Gladwell
+  * A book I was assigned to read in college, but never finished it. Unfinished business complete!
 
 ## 2021
 
