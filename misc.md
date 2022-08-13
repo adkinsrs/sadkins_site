@@ -44,6 +44,7 @@ For this page I am going to keep track of various things I am doing, in list for
 * Jul 31 - Who Pressed Mute on Uncle Marcus - PC
 * Aug 7 - Pulpergeist - Playdate
 * Aug 10 - Hexcells Plus - PC
+* Aug 12 - Chicory: A Colorful Tale - PC
 
 ### Books I have read
 
