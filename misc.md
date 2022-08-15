@@ -45,7 +45,8 @@ For this page I am going to keep track of various things I am doing, in list for
 * Aug 7 - Pulpergeist - Playdate
 * Aug 10 - Hexcells Plus - PC
 * Aug 12 - Chicory: A Colorful Tale - PC
-
+* Aug 14 - Crosscells - PC
+  * I sort of cheated on two of the final end-game puzzles (out of 50 total), since my brain just wasn't working and I wanted to move on. 
 ### Books I have read
 
 * Jan 22 - The Bat - Jo Nesbø
