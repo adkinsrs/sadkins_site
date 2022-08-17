@@ -47,6 +47,7 @@ For this page I am going to keep track of various things I am doing, in list for
 * Aug 12 - Chicory: A Colorful Tale - PC
 * Aug 14 - Crosscells - PC
   * I sort of cheated on two of the final end-game puzzles (out of 50 total), since my brain just wasn't working and I wanted to move on. 
+
 ### Books I have read
 
 * Jan 22 - The Bat - Jo Nesbø
@@ -61,6 +62,7 @@ For this page I am going to keep track of various things I am doing, in list for
 * Jul 23 - Amazonia - James Rollins
 * Aug 9 - The Tipping Point - Malcolm Gladwell
   * A book I was assigned to read in college, but never finished it. Unfinished business complete!
+* Aug 17 - Galápagos - Kurt Vonnegut
 
 ## 2021
 
