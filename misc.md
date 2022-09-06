@@ -65,6 +65,7 @@ For this page I am going to keep track of various things I am doing, in list for
 * Aug 9 - The Tipping Point - Malcolm Gladwell
   * A book I was assigned to read in college, but never finished it. Unfinished business complete!
 * Aug 17 - Galápagos - Kurt Vonnegut
+* Sep 6 - Treasure Island - Robert Louis Stevenson
 
 ## 2021
 
