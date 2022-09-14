@@ -66,6 +66,7 @@ For this page I am going to keep track of various things I am doing, in list for
   * A book I was assigned to read in college, but never finished it. Unfinished business complete!
 * Aug 17 - Galápagos - Kurt Vonnegut
 * Sep 6 - Treasure Island - Robert Louis Stevenson
+* Sep 14 - Metamorphosis - Franz Kafka
 
 ## 2021
 
