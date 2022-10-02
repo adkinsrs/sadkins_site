@@ -50,6 +50,7 @@ For this page I am going to keep track of various things I am doing, in list for
 * Aug 31 - Hades - Switch
   * First clear on attempt 46
 * Oct 1 - Taiji - PC
+* Oct 1 - Borderlands 3 - Stadia
 
 ### Books I have read
 
