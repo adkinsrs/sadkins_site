@@ -49,6 +49,7 @@ For this page I am going to keep track of various things I am doing, in list for
   * I sort of cheated on two of the final end-game puzzles (out of 50 total), since my brain just wasn't working and I wanted to move on. 
 * Aug 31 - Hades - Switch
   * First clear on attempt 46
+* Oct 1 - Taiji - PC
 
 ### Books I have read
 
