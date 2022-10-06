@@ -69,6 +69,7 @@ For this page I am going to keep track of various things I am doing, in list for
 * Aug 17 - Galápagos - Kurt Vonnegut
 * Sep 6 - Treasure Island - Robert Louis Stevenson
 * Sep 14 - Metamorphosis - Franz Kafka
+* Oct 5 - Shadows of Self: A Mistborn Novel - Brandon Sanderson
 
 ## 2021
 
