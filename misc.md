@@ -12,12 +12,10 @@ For this page I am going to keep track of various things I am doing, in list for
 
 * Ologies
 * Stuff You Should Know
-* The Art of Manliness Podcast
+* The Art of Manliness podcast
 * StarTalk
-* My Brother, My Brother, and Me
 * Conan O'Brien Needs a Friend
-* A Way with Words
-* The Thom and Hawk Show
+* Truzz Levels (football podcast)
 
 ## 2022
 
@@ -70,6 +68,7 @@ For this page I am going to keep track of various things I am doing, in list for
 * Sep 6 - Treasure Island - Robert Louis Stevenson
 * Sep 14 - Metamorphosis - Franz Kafka
 * Oct 5 - Shadows of Self: A Mistborn Novel - Brandon Sanderson
+* Oct 29 - South! - Sir Ernest Shackleton
 
 ## 2021
 
