@@ -68,7 +68,8 @@ For this page I am going to keep track of various things I am doing, in list for
 * Sep 6 - Treasure Island - Robert Louis Stevenson
 * Sep 14 - Metamorphosis - Franz Kafka
 * Oct 5 - Shadows of Self: A Mistborn Novel - Brandon Sanderson
-* Oct 29 - South! - Sir Ernest Shackleton
+* Oct 29 - South - Sir Ernest Shackleton
+* Nov 3 - Dopamine Nation: Finding Balance in the Age of Indulgence - Anna Lembke
 
 ## 2021
 
