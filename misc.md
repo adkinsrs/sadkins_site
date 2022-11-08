@@ -49,6 +49,7 @@ For this page I am going to keep track of various things I am doing, in list for
   * First clear on attempt 46
 * Oct 1 - Taiji - PC
 * Oct 1 - Borderlands 3 - Stadia
+* Nov 7 - Frog Detective 3 - Corruption at Cowboy County - PC
 
 ### Books I have read
 
