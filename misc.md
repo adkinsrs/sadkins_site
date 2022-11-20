@@ -70,6 +70,7 @@ For this page I am going to keep track of various things I am doing, in list for
 * Oct 5 - Shadows of Self: A Mistborn Novel - Brandon Sanderson
 * Oct 29 - South - Sir Ernest Shackleton
 * Nov 3 - Dopamine Nation: Finding Balance in the Age of Indulgence - Anna Lembke
+* Nov 19 - My Man, Jeeves - P.D. Wodehouse
 
 ## 2021
 
