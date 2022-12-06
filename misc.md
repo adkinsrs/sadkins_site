@@ -49,7 +49,8 @@ For this page I am going to keep track of various things I am doing, in list for
   * First clear on attempt 46
 * Oct 1 - Taiji - PC
 * Oct 1 - Borderlands 3 - Stadia
-* Nov 7 - Frog Detective 3 - Corruption at Cowboy County - PC
+* Nov 7 - Frog Detective 3: Corruption at Cowboy County - PC
+* Dec 5 - Dragon Quest XI S: Echoes of an Elusive Age - Switch
 
 ### Books I have read
 
