@@ -17,6 +17,15 @@ For this page I am going to keep track of various things I am doing, in list for
 * Conan O'Brien Needs a Friend
 * Truzz Levels (football podcast)
 
+## 2023
+
+### Games I have beaten
+
+### Books I have read
+
+* Jan 8 - The Bands of Mourning: A Mistborn Novel - Brandon Sanderson
+* Jan 8 - The Wind in the Willows - Kenneth Grahame
+
 ## 2022
 
 ### Games I have beaten
@@ -51,6 +60,7 @@ For this page I am going to keep track of various things I am doing, in list for
 * Oct 1 - Borderlands 3 - Stadia
 * Nov 7 - Frog Detective 3: Corruption at Cowboy County - PC
 * Dec 5 - Dragon Quest XI S: Echoes of an Elusive Age - Switch
+* Dec 12 - Beyond Eyes - PC
 
 ### Books I have read
 
