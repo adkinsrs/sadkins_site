@@ -21,6 +21,8 @@ For this page I am going to keep track of various things I am doing, in list for
 
 ### Games I have beaten
 
+* Jan 22 - Monument Valley 2 - Android
+
 ### Books I have read
 
 * Jan 8 - The Bands of Mourning: A Mistborn Novel - Brandon Sanderson
