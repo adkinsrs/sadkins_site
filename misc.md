@@ -25,6 +25,7 @@ For this page I am going to keep track of various things I am doing, in list for
 * Jan 29 - OK Golf - Android
   * Unlocked and played all courses
 * Feb 7 - Pentiment - PC
+* Feb 24 - Sports Story - Switch
 
 ### Books I have read
 
