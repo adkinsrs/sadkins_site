@@ -33,6 +33,7 @@ For this page I am going to keep track of various things I am doing, in list for
 * Jan 8 - The Wind in the Willows - Kenneth Grahame
 * Jan 30 - Uncomfortable Conversations With a Black Man - Emmanuel Acho
 * Feb 26 - A Connecticut Yankee in King Arthur's Court - Mark Twain
+* Mar 1 - Foundation - Isaac Asimov
 
 ## 2022
 
