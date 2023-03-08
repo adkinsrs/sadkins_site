@@ -26,6 +26,7 @@ For this page I am going to keep track of various things I am doing, in list for
   * Unlocked and played all courses
 * Feb 7 - Pentiment - PC
 * Feb 24 - Sports Story - Switch
+* Mar 7 - Hexcells Infinite - PC
 
 ### Books I have read
 
