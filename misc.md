@@ -36,6 +36,7 @@ For this page I am going to keep track of various things I am doing, in list for
 * Feb 26 - A Connecticut Yankee in King Arthur's Court - Mark Twain
 * Mar 1 - Foundation - Isaac Asimov
 * Mar 5 - One Hundred Years of Solitude - Gabriel García Márquez
+* Mar 13 - Mistborn: Secret History - Brandon Sanderson
 
 ## 2022
 
