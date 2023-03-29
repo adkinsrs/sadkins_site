@@ -5,7 +5,7 @@ date: 2023-03-28
 tags: misc life
 ---
 
-Every year, I generally set two goals: beat 12 video games in a year, and read 12 books in a year. You can see this on my [miscellaneous things page]({{ "/misc.html" | absulute_url }}). The video game goal is easily overcome every year, but the book-reading goal seems to barely get cleared. This used to always concern me, in the sense that I should be reading more books, but after some thinking, I am perfectly fine with my totals because it is all contextual.
+Every year, I generally set two goals: beat 12 video games in a year, and read 12 books in a year. You can see this on my [miscellaneous things page]({{ "/miscellaneous" | absulute_url }}). The video game goal is easily overcome every year, but the book-reading goal seems to barely get cleared. This used to always concern me, in the sense that I should be reading more books, but after some thinking, I am perfectly fine with my totals because it is all contextual.
 
 When I take a look at the actual video games that I consider beaten, the amount of time taken varies wildly. I've added games that took over 70 hours (i.e. Dragon Quest XI) but I have also added games that took about 1 hour (i.e. A Short Hike). If you look at the 27 games that I considered beaten in 2022, I feel that the true average time for each game would be what many would consider a respectable game length. And many of these games could certainly be extended or omitted if you changed the "beaten" criteria, such as getting the true ending in Hades instead of considering the first clear a win.
 
