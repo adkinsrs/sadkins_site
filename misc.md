@@ -27,6 +27,7 @@ For this page I am going to keep track of various things I am doing, in list for
 * Feb 7 - Pentiment - PC
 * Feb 24 - Sports Story - Switch
 * Mar 7 - Hexcells Infinite - PC
+* Apr 15 - The Murder of Sonic the Hedgehog - PC
 
 ### Books I have read
 
