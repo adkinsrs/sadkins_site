@@ -39,6 +39,7 @@ For this page I am going to keep track of various things I am doing, in list for
 * Mar 5 - One Hundred Years of Solitude - Gabriel García Márquez
 * Mar 13 - Mistborn: Secret History - Brandon Sanderson
 * Mar 21 - Völsunga Saga - Anonymous
+* Apr 27 - The Riddle of the Sands - Erskine Childers
 
 ## 2022
 
