@@ -41,6 +41,7 @@ For this page I am going to keep track of various things I am doing, in list for
 * Mar 13 - Mistborn: Secret History - Brandon Sanderson
 * Mar 21 - Völsunga Saga - Anonymous
 * Apr 27 - The Riddle of the Sands - Erskine Childers
+* May 3 - Bartleby, the Scrivener - Herman Melville
 
 ## 2022
 
