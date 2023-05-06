@@ -42,6 +42,7 @@ For this page I am going to keep track of various things I am doing, in list for
 * Mar 21 - Völsunga Saga - Anonymous
 * Apr 27 - The Riddle of the Sands - Erskine Childers
 * May 3 - Bartleby, the Scrivener - Herman Melville
+* May 8 - The Lost Metal: A Mistborn Novel - Brandon Sanderson
 
 ## 2022
 
