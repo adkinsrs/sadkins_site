@@ -30,6 +30,7 @@ For this page I am going to keep track of various things I am doing, in list for
 * Apr 15 - The Murder of Sonic the Hedgehog - PC
 * Apr 30 - The Great Ace Attorney Adventures - Switch
 * May 7 - Trombone Champ - PC
+* May 7 - Saturday Edition - Playdate
 
 ### Books I have read
 
@@ -43,7 +44,7 @@ For this page I am going to keep track of various things I am doing, in list for
 * Mar 21 - Völsunga Saga - Anonymous
 * Apr 27 - The Riddle of the Sands - Erskine Childers
 * May 3 - Bartleby, the Scrivener - Herman Melville
-* May 8 - The Lost Metal: A Mistborn Novel - Brandon Sanderson
+* May 6 - The Lost Metal: A Mistborn Novel - Brandon Sanderson
 
 ## 2022
 
