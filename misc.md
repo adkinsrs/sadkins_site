@@ -29,6 +29,7 @@ For this page I am going to keep track of various things I am doing, in list for
 * Mar 7 - Hexcells Infinite - PC
 * Apr 15 - The Murder of Sonic the Hedgehog - PC
 * Apr 30 - The Great Ace Attorney Adventures - Switch
+* May 7 - Trombone Champ - PC
 
 ### Books I have read
 
