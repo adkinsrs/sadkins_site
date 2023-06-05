@@ -31,6 +31,7 @@ For this page I am going to keep track of various things I am doing, in list for
 * Apr 30 - The Great Ace Attorney Adventures - Switch
 * May 7 - Trombone Champ - PC
 * May 7 - Saturday Edition - Playdate
+* Jun 4 - The Legend of Zelda: Tears of the Kingdom - Switch
 
 ### Books I have read
 
