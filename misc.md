@@ -32,6 +32,8 @@ For this page I am going to keep track of various things I am doing, in list for
 * May 7 - Trombone Champ - PC
 * May 7 - Saturday Edition - Playdate
 * Jun 4 - The Legend of Zelda: Tears of the Kingdom - Switch
+* Jun 10 - Theatrhythm Final Fantasy: Final Bar Line - Switch
+  * Basically played enough to get the credits, but I will be finishing every song eventually.
 
 ### Books I have read
 
