@@ -50,6 +50,7 @@ For this page I am going to keep track of various things I am doing, in list for
 * May 6 - The Lost Metal: A Mistborn Novel - Brandon Sanderson
 * May 29 - And the Waters Turned to Blood - Rodney Barker
   * This was a book I was required to read for a college class, but I maybe only read a third of it. Nice to finally do my assignment 15 years later.
+* Jun 18 - The Crystal Shard (The Legend of Drizzt: Book 4) - R.A. Salvatore
 
 ## 2022
 
