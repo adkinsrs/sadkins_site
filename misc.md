@@ -34,6 +34,7 @@ For this page I am going to keep track of various things I am doing, in list for
 * Jun 4 - The Legend of Zelda: Tears of the Kingdom - Switch
 * Jun 10 - Theatrhythm Final Fantasy: Final Bar Line - Switch
   * Basically played enough to get the credits, but I will be finishing every song eventually.
+* Jun 26 - Platonic - PC
 
 ### Books I have read
 
