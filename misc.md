@@ -35,6 +35,8 @@ For this page I am going to keep track of various things I am doing, in list for
 * Jun 10 - Theatrhythm Final Fantasy: Final Bar Line - Switch
   * Basically played enough to get the credits, but I will be finishing every song eventually.
 * Jun 26 - Platonic - PC
+* Jul 10 - Boneraiser Minions - PC
+  * Beat final boss first time
 
 ### Books I have read
 
@@ -75,6 +77,8 @@ For this page I am going to keep track of various things I am doing, in list for
 * Jun 21 - The Looker - PC
 * Jun 25 - Squarecells - PC
 * Jul 1 - Please Touch the Artwork - PC
+* Jul 17 - Vampire Survivors - PC
+  * Beat final boss
 * Jul 31 - Who Pressed Mute on Uncle Marcus - PC
 * Aug 7 - Pulpergeist - Playdate
 * Aug 10 - Hexcells Plus - PC
