@@ -28,7 +28,7 @@ For this page I am going to keep track of various things I am doing, in list for
 * Feb 24 - Sports Story - Switch
 * Mar 7 - Hexcells Infinite - PC
 * Apr 15 - The Murder of Sonic the Hedgehog - PC
-* Apr 30 - The Great Ace Attorney Adventures - Switch
+* Apr 30 - The Great Ace Attorney: Adventures - Switch
 * May 7 - Trombone Champ - PC
 * May 7 - Saturday Edition - Playdate
 * Jun 4 - The Legend of Zelda: Tears of the Kingdom - Switch
@@ -37,6 +37,7 @@ For this page I am going to keep track of various things I am doing, in list for
 * Jun 26 - Platonic - PC
 * Jul 10 - Boneraiser Minions - PC
   * Beat final boss first time
+* Jul 14 - The Great Ace Attorney 2: Resolve - Switch
 
 ### Books I have read
 
