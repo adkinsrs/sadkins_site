@@ -38,6 +38,7 @@ For this page I am going to keep track of various things I am doing, in list for
 * Jul 10 - Boneraiser Minions - PC
   * Beat final boss first time
 * Jul 14 - The Great Ace Attorney 2: Resolve - Switch
+* Jul 25 - Diablo IV - PC
 
 ### Books I have read
 
