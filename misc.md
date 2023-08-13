@@ -39,6 +39,7 @@ For this page I am going to keep track of various things I am doing, in list for
   * Beat final boss first time
 * Jul 14 - The Great Ace Attorney 2: Resolve - Switch
 * Jul 25 - Diablo IV - PC
+* Aug 24 - Words for a Bird - Android
 
 ### Books I have read
 
@@ -58,6 +59,7 @@ For this page I am going to keep track of various things I am doing, in list for
 * Jun 18 - The Crystal Shard (The Legend of Drizzt: Book 4) - R.A. Salvatore
 * Jul 22 - SuperFreakonomics: Global Cooling, Patriotic Prostitutes, and Why Suicide Bombers Should Buy Life Insurance - Steven D. Levitt and Stephen J Dubner
 * Jul 31 - The Three Musketeers - Alexandre Dumas
+* Aug 13 - Candide - Voltaire
 
 ## 2022
 
