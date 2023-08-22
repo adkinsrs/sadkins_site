@@ -60,6 +60,7 @@ For this page I am going to keep track of various things I am doing, in list for
 * Jul 22 - SuperFreakonomics: Global Cooling, Patriotic Prostitutes, and Why Suicide Bombers Should Buy Life Insurance - Steven D. Levitt and Stephen J Dubner
 * Jul 31 - The Three Musketeers - Alexandre Dumas
 * Aug 13 - Candide - Voltaire
+* Aug 22 - Bluebeard, the Autobiography of Rabo Karabekian (1916–1988) - Kurt Vonnegut
 
 ## 2022
 
