@@ -39,7 +39,8 @@ For this page I am going to keep track of various things I am doing, in list for
   * Beat final boss first time
 * Jul 14 - The Great Ace Attorney 2: Resolve - Switch
 * Jul 25 - Diablo IV - PC
-* Aug 24 - Words for a Bird - Android
+* Aug 14 - Words for a Bird - Android
+* Aug 22 - Tangle Tower - PC
 
 ### Books I have read
 
