@@ -63,6 +63,8 @@ For this page I am going to keep track of various things I am doing, in list for
 * Jul 31 - The Three Musketeers - Alexandre Dumas
 * Aug 13 - Candide - Voltaire
 * Aug 22 - Bluebeard, the Autobiography of Rabo Karabekian (1916–1988) - Kurt Vonnegut
+* Sep 4 - Tales of Mystery and Imagination - Edgar Allan Poe
+  * Collection of 22 short stories
 
 ## 2022
 
