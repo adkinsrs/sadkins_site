@@ -43,6 +43,7 @@ For this page I am going to keep track of various things I am doing, in list for
 * Aug 22 - Tangle Tower - PC
 * Sep 3 - Casual Birder - Playdate
 * Sep 5 - Dangeresque: The Roomisode Triungulate - PC
+* Sep 8 - Strange Horticulture - PC
 
 ### Books I have read
 
