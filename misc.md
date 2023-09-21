@@ -69,6 +69,7 @@ For this page I am going to keep track of various things I am doing, in list for
 * Aug 22 - Bluebeard, the Autobiography of Rabo Karabekian (1916–1988) - Kurt Vonnegut
 * Sep 4 - Tales of Mystery and Imagination - Edgar Allan Poe
   * Collection of 22 short stories
+* Sep 21 - Anne of Green Gables - Lucy Maud Montgomery
 
 ## 2022
 
