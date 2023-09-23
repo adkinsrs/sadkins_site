@@ -46,6 +46,7 @@ For this page I am going to keep track of various things I am doing, in list for
 * Sep 8 - Strange Horticulture - PC
 * Sep 10 - NieR: Automata - Switch
   * Got all main story endings
+* Sep 22 - Resonant Tale - Playdate
 
 ### Books I have read
 
