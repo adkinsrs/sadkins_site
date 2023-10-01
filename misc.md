@@ -47,6 +47,9 @@ For this page I am going to keep track of various things I am doing, in list for
 * Sep 10 - NieR: Automata - Switch
   * Got all main story endings
 * Sep 22 - Resonant Tale - Playdate
+* Sep 30 - Fire Emblem: Three Houses - Switch
+  * Verdant Wind route
+  * I played most of this in 2021, and just resumed where I left off after my 2+ year hiatus
 
 ### Books I have read
 
