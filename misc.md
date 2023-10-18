@@ -50,6 +50,7 @@ For this page I am going to keep track of various things I am doing, in list for
 * Sep 30 - Fire Emblem: Three Houses - Switch
   * Verdant Wind route
   * I played most of this in 2021, and just resumed where I left off after my 2+ year hiatus
+* Oct 17 - Storyteller - PC
 
 ### Books I have read
 
