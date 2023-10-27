@@ -75,6 +75,7 @@ For this page I am going to keep track of various things I am doing, in list for
 * Sep 4 - Tales of Mystery and Imagination - Edgar Allan Poe
   * Collection of 22 short stories
 * Sep 21 - Anne of Green Gables - Lucy Maud Montgomery
+* Oct 27 - John Silence: Physician Extraordinary - Algernon Blackwood
 
 ## 2022
 
