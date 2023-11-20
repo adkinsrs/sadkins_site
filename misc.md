@@ -77,6 +77,7 @@ For this page I am going to keep track of various things I am doing, in list for
 * Sep 21 - Anne of Green Gables - Lucy Maud Montgomery
 * Oct 27 - John Silence: Physician Extraordinary - Algernon Blackwood
 * Nov 19 - Alice's Adventures in Wonderland - Lewis Carroll
+* Nov 20 - Game of Thrones: A Song of Ice and Fire - George R. R. Martin
 
 ## 2022
 
