@@ -51,6 +51,7 @@ For this page I am going to keep track of various things I am doing, in list for
   * Verdant Wind route
   * I played most of this in 2021, and just resumed where I left off after my 2+ year hiatus
 * Oct 17 - Storyteller - PC
+* Nov 23 - Super Mario RPG (remake) - Switch
 
 ### Books I have read
 
