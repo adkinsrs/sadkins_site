@@ -17,6 +17,14 @@ For this page I am going to keep track of various things I am doing, in list for
 * Conan O'Brien Needs a Friend
 * Truzz Levels (football podcast)
 
+## 2024
+
+### Games I have beaten
+
+### Books I have read
+
+* Jan 11 - The Humbugs of the World - P.T. Barnum
+
 ## 2023
 
 ### Games I have beaten
