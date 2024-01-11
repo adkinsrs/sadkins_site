@@ -88,6 +88,7 @@ For this page I am going to keep track of various things I am doing, in list for
 * Nov 19 - Alice's Adventures in Wonderland - Lewis Carroll
 * Nov 20 - Game of Thrones: A Song of Ice and Fire - George R. R. Martin
 * Dec 4 - Through the Looking Glass - Lewis Carroll
+* Dec 18 - The Light Fantastic: A Novel of Discworld - Terry Pratchett
 
 ## 2022
 
