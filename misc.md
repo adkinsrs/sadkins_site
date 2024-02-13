@@ -21,9 +21,13 @@ For this page I am going to keep track of various things I am doing, in list for
 
 ### Games I have beaten
 
+* Feb 12 - Yakuza 7: Like a Dragon - PC
+
+
 ### Books I have read
 
 * Jan 11 - The Humbugs of the World - P.T. Barnum
+Reading some big collections of books so this will probably be empty for a while
 
 ## 2023
 
