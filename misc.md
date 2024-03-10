@@ -22,6 +22,7 @@ For this page I am going to keep track of various things I am doing, in list for
 ### Games I have beaten
 
 * Feb 12 - Yakuza 7: Like a Dragon - PC
+* Mar 10 - A Little to the Left - PC
 
 
 ### Books I have read
