@@ -22,6 +22,7 @@ For this page I am going to keep track of various things I am doing, in list for
 ### Games I have beaten
 
 * Feb 12 - Yakuza 7: Like a Dragon - PC
+* Beaten Balatro on Switch a few times.  Hard to determine a "victory" state... first win, get all decks, etc.
 * Mar 10 - A Little to the Left - PC
 * Apr 7 - Like a Dragon: Infinite Wealth - PC
 
