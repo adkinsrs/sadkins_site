@@ -23,7 +23,7 @@ For this page I am going to keep track of various things I am doing, in list for
 
 * Feb 12 - Yakuza 7: Like a Dragon - PC
 * Mar 10 - A Little to the Left - PC
-
+* Apr 7 - Like a Dragon: Infinite Wealth - PC
 
 ### Books I have read
 
