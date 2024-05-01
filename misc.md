@@ -25,6 +25,7 @@ For this page I am going to keep track of various things I am doing, in list for
 * Beaten Balatro on Switch a few times.  Hard to determine a "victory" state... first win, get all decks, etc.
 * Mar 10 - A Little to the Left - PC
 * Apr 7 - Like a Dragon: Infinite Wealth - PC
+Apr 30 - Islets - PC
 
 ### Books I have read
 
