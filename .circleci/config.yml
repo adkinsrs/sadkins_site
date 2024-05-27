@@ -96,7 +96,7 @@ jobs:
           command: sudo apt -qq update && sudo apt -qq install -y --no-install-recommends rsync
       - run:
           name: Disable StrictHostKeyChecking
-          command: echo -e "Host ssh.phx.nearlyfreespeech.net\n\tStrictHostKeyChecking no\n" >> ~/.ssh/config
+          command: echo -e "Host ssh.nyc1.nearlyfreespeech.net\n\tStrictHostKeyChecking no\n" >> ~/.ssh/config
       - run:
           name: Deploy with Rake
           command: rake deploy
