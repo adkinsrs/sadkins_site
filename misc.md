@@ -28,6 +28,7 @@ For this page I am going to keep track of various things I am doing, in list for
 * Apr 30 - Islets - PC
 * May 5 - Down in Bermuda - Android
 * May 26 - Cricket Through The Ages - PC
+* June 4 - Chants of Sennaar - PC
 
 ### Books I have read
 
