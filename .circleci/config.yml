@@ -12,7 +12,7 @@ jobs:
     ## Turn off strict host checking
     ## unzip encrypted ssh private key and _config.yml
     docker:
-      - image: cimg/ruby:3.1.1
+      - image: cimg/ruby:3.3.1
     steps:
       - checkout
       - restore_cache:
@@ -24,7 +24,7 @@ jobs:
             - v1-gem-cache-{{ arch }}-
       - run:
           name: Update gem
-          command: gem update --system '3.3.7'
+          command: gem update --system '3.5.11'
       - run:
           name: Decode secrets file
           command: gpg --batch --decrypt --passphrase=${GPG_PASS} secrets.tar.gpg > secrets.tar
