@@ -69,7 +69,7 @@ jobs:
           command: bundle exec jekyll build
       - run:
           name: HTML Validation
-          command: bundle exec htmlproofer ./_site --disable-external=true
+          command: bundle exec htmlproofer ./_site --disable-external "true"
       - persist_to_workspace:
           root: .
           paths:
