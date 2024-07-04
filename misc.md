@@ -30,6 +30,7 @@ For this page I am going to keep track of various things I am doing, in list for
 * May 26 - Cricket Through The Ages - PC
 * June 4 - Chants of Sennaar - PC
 * June 23 - Murder by Numbers - Switch
+* July 3 - [the] Gnorp Apologue - PC
 
 ### Books I have read
 
