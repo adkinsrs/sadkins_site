@@ -35,6 +35,7 @@ For this page I am going to keep track of various things I am doing, in list for
 ### Books I have read
 
 * Jan 11 - The Humbugs of the World - P.T. Barnum
+* July 5 - The Judas Strain - James Rollins
 Reading some big collections of books so this will probably be empty for a while
 
 ## 2023
