@@ -36,6 +36,7 @@ For this page I am going to keep track of various things I am doing, in list for
 
 * Jan 11 - The Humbugs of the World - P.T. Barnum
 * July 5 - The Judas Strain - James Rollins
+* July 14 - Hocus Pocus - Kurt Vonnegut
 Reading some big collections of books so this will probably be empty for a while
 
 ## 2023
