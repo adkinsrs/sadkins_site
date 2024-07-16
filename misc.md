@@ -31,6 +31,7 @@ For this page I am going to keep track of various things I am doing, in list for
 * June 4 - Chants of Sennaar - PC
 * June 23 - Murder by Numbers - Switch
 * July 3 - [the] Gnorp Apologue - PC
+* July 15 - Please Touch the Artwork 2 - PC
 
 ### Books I have read
 
