@@ -39,6 +39,8 @@ For this page I am going to keep track of various things I am doing, in list for
 * July 5 - The Judas Strain - James Rollins
 * July 14 - Hocus Pocus - Kurt Vonnegut
 Reading some big collections of books so this will probably be empty for a while
+* Sept 5 - The Complete Sherlock Holmes - Sir Arthur Conan Doyle
+  * Four novels, fifty-six short stories
 
 ## 2023
 
