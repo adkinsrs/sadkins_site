@@ -32,6 +32,10 @@ For this page I am going to keep track of various things I am doing, in list for
 * June 23 - Murder by Numbers - Switch
 * July 3 - [the] Gnorp Apologue - PC
 * July 15 - Please Touch the Artwork 2 - PC
+* Sept 10 - Cocoon - PC
+* Sept 17 - Octopath Traveler - PC
+  * Main stories have been completed. Unsure if I want to go for the "true ending"
+* Sept 22 - SteamWorld Dig - PC
 
 ### Books I have read
 
