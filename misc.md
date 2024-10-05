@@ -38,6 +38,7 @@ For this page I am going to keep track of various things I am doing, in list for
 * Sept 22 - SteamWorld Dig - PC
 * Sept 30 - Camouflage - UFO 50 - PC
   * UFO 50 is a collection of 50 full-length 1980s-style games. I'm going to include beaten games that have a endpoint in this list.
+* Oct 4 - Mooncat - UFO 50 - PC
 
 ### Books I have read
 
