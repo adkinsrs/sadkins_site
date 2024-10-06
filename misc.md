@@ -40,6 +40,7 @@ For this page I am going to keep track of various things I am doing, in list for
   * UFO 50 is a collection of 50 full-length 1980s-style games. I'm going to include beaten games that have a endpoint in this list.
 * Oct 4 - Mooncat - UFO 50 - PC
 * Oct 5 - SteamWorld Dig 2 - Switch
+* Oct 5 - Florence - Android
 
 ### Books I have read
 
