@@ -41,6 +41,7 @@ For this page I am going to keep track of various things I am doing, in list for
 * Oct 4 - Mooncat - UFO 50 - PC
 * Oct 5 - SteamWorld Dig 2 - Switch
 * Oct 5 - Florence - Android
+* Oct 7 - Detective Grimoire - Android
 
 ### Books I have read
 
