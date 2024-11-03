@@ -15,7 +15,6 @@ For this page I am going to keep track of various things I am doing, in list for
 * The Art of Manliness podcast
 * StarTalk
 * Conan O'Brien Needs a Friend
-* Truzz Levels (football podcast)
 
 ## 2024
 
@@ -41,7 +40,8 @@ For this page I am going to keep track of various things I am doing, in list for
 * Oct 4 - Mooncat - UFO 50 - PC
 * Oct 5 - SteamWorld Dig 2 - Switch
 * Oct 5 - Florence - Android
-* Oct 7 - Detective Grimoire - Android
+* Oct 7 - Detective Grimoire - PC
+* Nov 3 - POOLS - PC
 
 ### Books I have read
 
