@@ -42,6 +42,7 @@ For this page I am going to keep track of various things I am doing, in list for
 * Oct 5 - Florence - Android
 * Oct 7 - Detective Grimoire - PC
 * Nov 3 - POOLS - PC
+* Nov 4 - Omaze - Playdate
 
 ### Books I have read
 
