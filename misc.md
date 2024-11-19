@@ -55,6 +55,8 @@ Reading some big collections of books so this will probably be empty for a while
 * Oct 31 - The Complete Shakespeare Collection
   * This collection had 37 plays, 4 long poems, and 154 sonnets. There are discrepancies in his overall body of work in terms of what he wrote
 * Nov 4 - Laundry Love: Finding Joy in a Common Chore - Patric Richardson
+* Nov 19 - Preacher: Book 1 - Garth Ennis and Steve Dillon
+  * Comic book collection. This one has 11 issues
 
 ## 2023
 
