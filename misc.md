@@ -43,6 +43,7 @@ For this page I am going to keep track of various things I am doing, in list for
 * Oct 7 - Detective Grimoire - PC
 * Nov 3 - POOLS - PC
 * Nov 4 - Omaze - Playdate
+* Nov 20 - The Centennial Case: A Shijima Story - Switch
 
 ### Books I have read
 
