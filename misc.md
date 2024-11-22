@@ -58,6 +58,7 @@ Reading some big collections of books so this will probably be empty for a while
 * Nov 4 - Laundry Love: Finding Joy in a Common Chore - Patric Richardson
 * Nov 19 - Preacher: Book 1 - Garth Ennis and Steve Dillon
   * Comic book collection. This one has 11 issues
+* Nov 21 - The Absolute at Large - Karel Čapek
 
 ## 2023
 
