@@ -62,6 +62,7 @@ Reading some big collections of books so this will probably be empty for a while
   * Comic book collection. This one issues 1-12
 * Nov 21 - The Absolute at Large - Karel Čapek
 * Dec 18 - Take Your Eye Off the Ball (v2.0) - Pat Kirwan
+* Dec 19 - Lud-in-the-Mist - Hope Mirrlees
 
 ## 2023
 
