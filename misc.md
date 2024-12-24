@@ -46,6 +46,7 @@ For this page I am going to keep track of various things I am doing, in list for
 * Nov 20 - The Centennial Case: A Shijima Story - Switch
 * Nov 27 - Rusty Lake Hotel - Android
 * Dec 2 - Diablo IV: Vessel of Hatred - PC
+* Dec 24 - Proverbs - PC
 
 ### Books I have read
 
