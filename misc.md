@@ -16,6 +16,15 @@ For this page I am going to keep track of various things I am doing, in list for
 * StarTalk
 * Conan O'Brien Needs a Friend
 
+## 2025
+
+### Games I have beaten
+
+### Books I have read
+
+* Jan 10 - Preacher: Book 2 - Garth Ennis and Steve Dillon
+  * This one is issues 13-26
+
 ## 2024
 
 ### Games I have beaten
@@ -60,7 +69,7 @@ Reading some big collections of books so this will probably be empty for a while
   * This collection had 37 plays, 4 long poems, and 154 sonnets. There are discrepancies in his overall body of work in terms of what he wrote
 * Nov 4 - Laundry Love: Finding Joy in a Common Chore - Patric Richardson
 * Nov 19 - Preacher: Book 1 - Garth Ennis and Steve Dillon
-  * Comic book collection. This one issues 1-12
+  * Comic book collection. This one is issues 1-12
 * Nov 21 - The Absolute at Large - Karel Čapek
 * Dec 18 - Take Your Eye Off the Ball (v2.0) - Pat Kirwan
 * Dec 19 - Lud-in-the-Mist - Hope Mirrlees
