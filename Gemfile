@@ -29,3 +29,7 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 gem "html-proofer"
 
 gem "webrick", "~> 1.7"
+
+# Preventing various errors after Ruby 3.4 due to certain packages not being loaded in the standard library
+gem "csv"
+gem "logger"
