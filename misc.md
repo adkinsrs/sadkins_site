@@ -20,6 +20,8 @@ For this page I am going to keep track of various things I am doing, in list for
 
 ### Games I have beaten
 
+* Jan 20 - Ōkami - Switch
+
 ### Books I have read
 
 * Jan 10 - Preacher: Book 2 - Garth Ennis and Steve Dillon
