@@ -21,6 +21,7 @@ For this page I am going to keep track of various things I am doing, in list for
 ### Games I have beaten
 
 * Jan 20 - Ōkami - Switch
+* Jan 20 - An Arcade Full of Cats - PC
 
 ### Books I have read
 
