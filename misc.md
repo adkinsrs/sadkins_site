@@ -28,6 +28,7 @@ For this page I am going to keep track of various things I am doing, in list for
 * Jan 10 - Preacher: Book 2 - Garth Ennis and Steve Dillon
   * This one is issues 13-26
 * Jan 10 - The Lost World - Sir Arthur Conan Doyle
+* Jan 24 - The Poison Belt - Sir Arthur Conan Doyle
 
 ## 2024
 
