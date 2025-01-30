@@ -29,6 +29,7 @@ For this page I am going to keep track of various things I am doing, in list for
   * This one is issues 13-26
 * Jan 10 - The Lost World - Sir Arthur Conan Doyle
 * Jan 24 - The Poison Belt - Sir Arthur Conan Doyle
+* Jan 30 - How to Lie with Maps - Mark Monmonier
 
 ## 2024
 
