@@ -22,6 +22,7 @@ For this page I am going to keep track of various things I am doing, in list for
 
 * Jan 20 - Ōkami - Switch
 * Jan 20 - An Arcade Full of Cats - PC
+* Jan 31 - 20 Small Mazes - PC
 
 ### Books I have read
 
