@@ -32,6 +32,8 @@ For this page I am going to keep track of various things I am doing, in list for
 * Jan 10 - The Lost World - Sir Arthur Conan Doyle
 * Jan 24 - The Poison Belt - Sir Arthur Conan Doyle
 * Jan 30 - How to Lie with Maps - Mark Monmonier
+* Feb 13 - Preacher: Book 3 - Garth Ennis and Steve Dillon
+  * This one is issues 27–33, special Saint of Killersissues 1–4, and special Cassidy – Blood and Whiskey
 
 ## 2024
 
