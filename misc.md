@@ -24,6 +24,8 @@ For this page I am going to keep track of various things I am doing, in list for
 * Jan 20 - An Arcade Full of Cats - PC
 * Jan 31 - 20 Small Mazes - PC
 * Feb 7 - RYB - PC
+* Mar 4 - Minishoot' Adventures - PC
+  * 100%
 
 ### Books I have read
 
