@@ -37,6 +37,7 @@ For this page I am going to keep track of various things I am doing, in list for
 * Feb 13 - Preacher: Book 3 - Garth Ennis and Steve Dillon
   * This one is issues 27–33, special Saint of Killersissues 1–4, and special Cassidy – Blood and Whiskey
 * Feb 16 - The Land of Mist - Sir Arthur Conan Doyle
+* Mar 29 - What If?: Serious Scientific Answers to Absurd Hypothetical Questions - Randall Munroe
 
 ## 2024
 
