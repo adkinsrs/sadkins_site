@@ -29,6 +29,7 @@ For this page I am going to keep track of various things I am doing, in list for
 * Mar 30 - Monument Valley 3 - Android
 * May 5 - Blue Prince - Android
   * Reached the credits
+* May 10 - Lil' Gator Game - Switch
 
 ### Books I have read
 
@@ -43,6 +44,7 @@ For this page I am going to keep track of various things I am doing, in list for
 * Mar 29 - What If?: Serious Scientific Answers to Absurd Hypothetical Questions - Randall Munroe
 * Apr 19 - Preacher: Book 4 - Garth Ennis and Steve Dillon
   * This one is issues 34-40, special The Story of You-Know-Who, special The Good Old Boys, and special One Man's War
+* May 10 - The Idiot - Fyodor Dostoevsky
 
 ## 2024
 
