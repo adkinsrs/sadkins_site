@@ -30,6 +30,7 @@ For this page I am going to keep track of various things I am doing, in list for
 * May 5 - Blue Prince - Android
   * Reached the credits
 * May 10 - Lil' Gator Game - Switch
+* May 25 - Metaphor: ReFantazio - PC
 
 ### Books I have read
 
