@@ -46,6 +46,7 @@ For this page I am going to keep track of various things I am doing, in list for
 * Apr 19 - Preacher: Book 4 - Garth Ennis and Steve Dillon
   * This one is issues 34-40, special The Story of You-Know-Who, special The Good Old Boys, and special One Man's War
 * May 10 - The Idiot - Fyodor Dostoevsky
+* May 26 - Ralph 124C 41+ - Hugo Gernsback
 
 ## 2024
 
