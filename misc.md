@@ -31,6 +31,7 @@ For this page I am going to keep track of various things I am doing, in list for
   * Reached the credits
 * May 10 - Lil' Gator Game - Switch
 * May 25 - Metaphor: ReFantazio - PC
+* May 28 - Duck Detective: The Secret Salami - PC
 
 ### Books I have read
 
