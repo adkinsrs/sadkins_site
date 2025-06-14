@@ -48,6 +48,7 @@ For this page I am going to keep track of various things I am doing, in list for
   * This one is issues 34-40, special The Story of You-Know-Who, special The Good Old Boys, and special One Man's War
 * May 10 - The Idiot - Fyodor Dostoevsky
 * May 26 - Ralph 124C 41+ - Hugo Gernsback
+* June 14 - Knight's Ransom - Jeff Wheeler
 
 ## 2024
 
