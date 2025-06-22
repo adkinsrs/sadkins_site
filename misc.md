@@ -32,6 +32,7 @@ For this page I am going to keep track of various things I am doing, in list for
 * May 10 - Lil' Gator Game - Switch
 * May 25 - Metaphor: ReFantazio - PC
 * May 28 - Duck Detective: The Secret Salami - PC
+* June 21 - Duck Detective: The Ghost of Glamping - PC
 
 ### Books I have read
 
