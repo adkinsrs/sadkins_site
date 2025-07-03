@@ -52,6 +52,7 @@ For this page I am going to keep track of various things I am doing, in list for
 * May 26 - Ralph 124C 41+ - Hugo Gernsback
 * June 14 - Knight's Ransom - Jeff Wheeler
 * June 17 - Flatland - Edwin A. Abbott
+* July 2 - Warrior's Ransom - Jeff Wheeler
 
 ## 2024
 
