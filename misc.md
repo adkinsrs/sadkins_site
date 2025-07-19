@@ -53,6 +53,7 @@ For this page I am going to keep track of various things I am doing, in list for
 * June 14 - Knight's Ransom - Jeff Wheeler
 * June 17 - Flatland - Edwin A. Abbott
 * July 2 - Warrior's Ransom - Jeff Wheeler
+* July 18 - A Princess of Mars - Edgar Rice Burroughs
 
 ## 2024
 
