@@ -34,6 +34,7 @@ For this page I am going to keep track of various things I am doing, in list for
 * May 28 - Duck Detective: The Secret Salami - PC
 * June 21 - Duck Detective: The Ghost of Glamping - PC
 * July 1 - Alba: A Wildlife Adventure - Switch
+* July 20 - Bubumbu - PC
 
 ### Books I have read
 
