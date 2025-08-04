@@ -35,6 +35,8 @@ For this page I am going to keep track of various things I am doing, in list for
 * June 21 - Duck Detective: The Ghost of Glamping - PC
 * July 1 - Alba: A Wildlife Adventure - Switch
 * July 20 - Bubumbu - PC
+* July 21 - Cube Escape Collection - Android
+  * A collection of 9 games from the Cube Escape series from Rusty Lake
 
 ### Books I have read
 
@@ -55,6 +57,7 @@ For this page I am going to keep track of various things I am doing, in list for
 * June 17 - Flatland - Edwin A. Abbott
 * July 2 - Warrior's Ransom - Jeff Wheeler
 * July 18 - A Princess of Mars - Edgar Rice Burroughs
+* Aug 3 - Lady's Random - Jeff Wheeler
 
 ## 2024
 
