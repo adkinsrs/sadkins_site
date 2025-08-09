@@ -58,6 +58,7 @@ For this page I am going to keep track of various things I am doing, in list for
 * July 2 - Warrior's Ransom - Jeff Wheeler
 * July 18 - A Princess of Mars - Edgar Rice Burroughs
 * Aug 3 - Lady's Random - Jeff Wheeler
+* Aug 8 - The Mark of Zorro - Johnston McCulley
 
 ## 2024
 
