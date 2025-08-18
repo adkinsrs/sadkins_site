@@ -37,6 +37,7 @@ For this page I am going to keep track of various things I am doing, in list for
 * July 20 - Bubumbu - PC
 * July 21 - Cube Escape Collection - Android
   * A collection of 9 games from the Cube Escape series from Rusty Lake
+* Aug 17 - Cube Escape Paradox - Android
 
 ### Books I have read
 
