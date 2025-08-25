@@ -40,6 +40,8 @@ For this page I am going to keep track of various things I am doing, in list for
 * Aug 17 - Cube Escape Paradox - Android
 * Aug 22 - Wario Land 3 - Switch (via Game Boy collection)
   * All treasures
+* Aug 24 - Logic Town - PC
+  * All DLC as well
 
 ### Books I have read
 
