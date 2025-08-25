@@ -66,6 +66,7 @@ For this page I am going to keep track of various things I am doing, in list for
 * Aug 8 - The Mark of Zorro - Johnston McCulley
 * Aug 18 - Humble Pi: When Math Goes Wrong in the Real World - Matt Parker
 * Aug 23 - The Tragedy of the Korosko - Sir Arthur Conan Doyle
+* Aug 25 - Fate's Ransom - Jeff Wheeler
 
 ## 2024
 
