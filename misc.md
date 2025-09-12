@@ -43,6 +43,7 @@ For this page I am going to keep track of various things I am doing, in list for
 * Aug 24 - Logic Town - PC
   * All DLC as well
 * Aug 31 - Deltarune: Chapter 2 - Switch 2
+* Sept 11 - Dig Dig Dino! - Playdate 
 
 ### Books I have read
 
