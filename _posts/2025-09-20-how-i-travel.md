@@ -24,10 +24,11 @@ Some ways I find destinations
 * Wikivoyage - Solid place to start planning. User-written articles on cities, countries, travel tips, etc. Also has good info on how to stay safe, show respect to the locals. The tourist destinations are pretty good, but the Eat, Drink, Sleep sections could be out-of-date as these pages are user-edited.
 * Atlas Obscura - My favorite place to find interesting tourist destinations. Occasionally has "main attractions", but caters more to off-the-beaten-path history, natural wonders, oddities, etc.
 * Just scrolling around Google Maps.  Sometimes I find great restaurant and bar recommendations by just scrolling around a city in Google Maps. It's easy to look at the reviews and gauge if this place is up your alley. Furthermore, tourism destinations tend to show up on the map even when zoomed out a bit more. Nice way to see how close things are and plan from there.
+  * For each place I am visiting, I will make a private list marking the places of interest for me as well as my home base. In the past, I used to remove the places I've been to, but I found that makes it harder for me to reminisce about a particular restaurant or share my list with others so I keep the "visited" and the "have not visited" all in one place.
   * Secondary tip here - You can download an offline version of the map for the city or region you are visiting. A city-wide offline map can take maybe 100Mb of storage on your phone. Two reasons for this. 1) Saving data, and 2) If you do not have cell service, you still have a navigation tool.
 * Reddit - Each country and city has a subreddit with active posters (typically locals) that are willing to answer questions from potential travelers. These subreddits typically have a wiki page or a "Traveling? Start Here" page with some good recommendations. This can save you from some unexpected surprises and get a feel of the vibe or beat of the area.
 
-One other thing I do is use a Google Doc to organize my trip. This makes it easy for me to reference during the trip.
+One other thing I do is use a Google Doc to organize my trip. This makes it easy for me to reference during the trip.  For cities in the USA (where I am from) or for shorter trips (3 full days or less), I generally will not do this... I can handle the logistics in my head just fine. Making a list on Google Maps is my document here
 
 How I typically organize my Doc:
 
