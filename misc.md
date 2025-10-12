@@ -72,6 +72,8 @@ For this page I am going to keep track of various things I am doing, in list for
 * Aug 18 - Humble Pi: When Math Goes Wrong in the Real World - Matt Parker
 * Aug 23 - The Tragedy of the Korosko - Sir Arthur Conan Doyle
 * Aug 25 - Fate's Ransom - Jeff Wheeler
+* Oct 11 - Timequake - Kurt Vonnegut
+  * Finally finished all the Kurt Vonnegut novels
 
 ## 2024
 
