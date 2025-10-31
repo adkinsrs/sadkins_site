@@ -48,6 +48,7 @@ For this page I am going to keep track of various things I am doing, in list for
 * Sept 28 - Deltarune: Chapter 4 - Switch 2
 * Sept 30 - The White Door - Android
 * Oct 1 - Digseum - PC
+* Oct 30 - Samsara Room - PC
 
 ### Books I have read
 
