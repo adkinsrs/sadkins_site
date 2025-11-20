@@ -51,6 +51,7 @@ For this page I am going to keep track of various things I am doing, in list for
 * Oct 30 - Samsara Room - Android
 * Nov 3 - The Mr Rabbit Magic Show - Android
 * Nov 6 - Dreams of Aether - PC
+* Nov 19 - Sketch, Share, Solve - Playdate
 
 ### Books I have read
 
