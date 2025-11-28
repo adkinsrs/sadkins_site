@@ -52,6 +52,7 @@ For this page I am going to keep track of various things I am doing, in list for
 * Nov 3 - The Mr Rabbit Magic Show - Android
 * Nov 6 - Dreams of Aether - PC
 * Nov 19 - Sketch, Share, Solve - Playdate
+* Nov 28 - Rain on Your Parade - PC
 
 ### Books I have read
 
