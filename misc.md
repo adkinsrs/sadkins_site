@@ -82,6 +82,7 @@ For this page I am going to keep track of various things I am doing, in list for
   * Finally finished all the Kurt Vonnegut novels
 * Nov 1 - Wolverine (1982) - Chris Claremont and Frank Miller
   * Wolverine #1-4, and Uncanny X-Men #172-173
+* Dec 1 - The Secret Life of Groceries - Benjamin Lorr
 
 ## 2024
 
