@@ -55,6 +55,7 @@ For this page I am going to keep track of various things I am doing, in list for
 * Nov 28 - Rain on Your Parade - PC
 * Dec 16 - Mega Man Battle Network - Switch 2
   * Part of the Mega Man Battle Network Legacy Collection
+* Dec 28 - Strange Jigsaws - PC
 
 ### Books I have read
 
