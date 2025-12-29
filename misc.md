@@ -16,6 +16,12 @@ For this page I am going to keep track of various things I am doing, in list for
 * StarTalk
 * Conan O'Brien Needs a Friend
 
+## 2026
+
+### Games I have beaten
+
+### Books I have read
+
 ## 2025
 
 ### Games I have beaten
@@ -56,6 +62,7 @@ For this page I am going to keep track of various things I am doing, in list for
 * Dec 16 - Mega Man Battle Network - Switch 2
   * Part of the Mega Man Battle Network Legacy Collection
 * Dec 28 - Strange Jigsaws - PC
+* Dec 29 - Botany Manor - PC
 
 ### Books I have read
 
