@@ -63,6 +63,7 @@ For this page I am going to keep track of various things I am doing, in list for
   * Part of the Mega Man Battle Network Legacy Collection
 * Dec 28 - Strange Jigsaws - PC
 * Dec 29 - Botany Manor - PC
+* Dec 31 - Super Mario Odyssey - Switch
 
 ### Books I have read
 
