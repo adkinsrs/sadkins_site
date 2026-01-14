@@ -20,6 +20,8 @@ For this page I am going to keep track of various things I am doing, in list for
 
 ### Games I have beaten
 
+* Jan 13 - Frankenstein: Master of Death - PC
+
 ### Books I have read
 
 ## 2025
