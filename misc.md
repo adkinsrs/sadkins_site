@@ -33,7 +33,7 @@ For this page I am going to keep track of various things I am doing, in list for
 * Mar 4 - Minishoot' Adventures - PC
   * 100%
 * Mar 30 - Monument Valley 3 - Android
-* May 5 - Blue Prince - Android
+* May 5 - Blue Prince - PC
   * Reached the credits
 * May 10 - Lil' Gator Game - Switch
 * May 25 - Metaphor: ReFantazio - PC
