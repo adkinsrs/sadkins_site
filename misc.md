@@ -24,6 +24,9 @@ For this page I am going to keep track of various things I am doing, in list for
 
 ### Books I have read
 
+* Jan 18 - Preacher: Book 2 - Garth Ennis and Steve Dillon
+  * This one is issues 41-54
+
 ## 2025
 
 ### Games I have beaten
