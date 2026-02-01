@@ -27,6 +27,7 @@ For this page I am going to keep track of various things I am doing, in list for
 
 * Jan 18 - Preacher: Book 2 - Garth Ennis and Steve Dillon
   * This one is issues 41-54
+* Feb 1 - The Count of Monte Cristo - Alexandre Dumas
 
 ## 2025
 
