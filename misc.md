@@ -29,6 +29,7 @@ For this page I am going to keep track of various things I am doing, in list for
   * This one is issues 41-54
 * Feb 1 - The Count of Monte Cristo - Alexandre Dumas
 * Feb 13 - The Maltese Falcon - Dashiell Hammett
+* Feb 21 - Adaptation - Mack Reynolds
 
 ## 2025
 
