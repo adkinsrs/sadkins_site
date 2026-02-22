@@ -23,6 +23,7 @@ For this page I am going to keep track of various things I am doing, in list for
 * Jan 13 - Frankenstein: Master of Death - PC
 * Jan 26 - TR-49 - PC
 * Feb 21 - Donkey Kong: Bananza - Switch 2
+* Feb 22 - Skwish - Playdate
 
 ### Books I have read
 
