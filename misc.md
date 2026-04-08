@@ -26,6 +26,7 @@ For this page I am going to keep track of various things I am doing, in list for
 * Feb 22 - Skwish - Playdate
 * Feb 22 - The Barkless Doctrine - Playdate
 * Mar 29 - Pokemon Pokopia - Switch 2
+* Apr 7 - Gilly and the Isle of Sorrow - Playdate
 
 ### Books I have read
 
