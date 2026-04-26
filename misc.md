@@ -38,6 +38,8 @@ For this page I am going to keep track of various things I am doing, in list for
 * Feb 21 - Adaptation - Mack Reynolds
 * Mar 13 - The Queen's Poisoner - Jeff Wheeler
 * Mar 21 - The Inimitable Jeeves - P.D. Wodehouse
+* Apr 26 - Killer Come Back to Me: The Crime Stories of Ray Bradbury
+  * 20 short stories
 
 ## 2025
 
