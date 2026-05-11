@@ -28,6 +28,8 @@ For this page I am going to keep track of various things I am doing, in list for
 * Mar 29 - Pokemon Pokopia - Switch 2
 * Apr 7 - Gilly and the Isle of Sorrow - Playdate
 * Apr 24 - Zero Stress King: Idle Defense - Android
+* May 10 - Fire Emblem Warriors: Three Hopes - Switch
+  * Golden Wildfire route
 
 ### Books I have read
 
