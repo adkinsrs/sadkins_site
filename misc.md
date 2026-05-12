@@ -42,6 +42,7 @@ For this page I am going to keep track of various things I am doing, in list for
 * Mar 21 - The Inimitable Jeeves - P.D. Wodehouse
 * Apr 26 - Killer Come Back to Me: The Crime Stories of Ray Bradbury
   * 20 short stories
+* May 12 - The Spy - James Fenimore Cooper
 
 ## 2025
 
