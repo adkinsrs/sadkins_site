@@ -30,6 +30,7 @@ For this page I am going to keep track of various things I am doing, in list for
 * Apr 24 - Zero Stress King: Idle Defense - Android
 * May 10 - Fire Emblem Warriors: Three Hopes - Switch
   * Golden Wildfire route
+* May 12 - Labyrinth City: Pierre the Maze Detective - Android
 
 ### Books I have read
 
