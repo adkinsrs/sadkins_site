@@ -44,6 +44,7 @@ For this page I am going to keep track of various things I am doing, in list for
 * Apr 26 - Killer Come Back to Me: The Crime Stories of Ray Bradbury
   * 20 short stories
 * May 12 - The Spy - James Fenimore Cooper
+* May 14 - The End of Everything (Astrophysically Speaking) - Katie Mack
 
 ## 2025
 
