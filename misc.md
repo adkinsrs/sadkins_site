@@ -31,6 +31,7 @@ For this page I am going to keep track of various things I am doing, in list for
 * May 10 - Fire Emblem Warriors: Three Hopes - Switch
   * Golden Wildfire route
 * May 12 - Labyrinth City: Pierre the Maze Detective - Android
+* May 25 - Post Hero - Playdate
 
 ### Books I have read
 
