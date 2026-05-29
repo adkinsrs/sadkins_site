@@ -19,8 +19,10 @@ permalink: /resume/
 * Institute for Genome Sciences - University of Maryland - Baltimore
   * Bioinformatics Software Engineer I - Aug 2011 - July 2016
   * Bioinformatics Software Engineer II - July 2016 - Present
+  * Senior Bioinformatics Software Engineer - Mar 2024 - Present
     * Current roles:
       * Developer for the gene Expression Analysis Resource (gEAR) portal for analysis and visualization of multi-omic data related to hearing
+      * Teach Python programming for the University of Maryland GPLS 718 (Programming for Bioinformatics) course
     * Past roles:
       * Development of the Neuroscience Multi-Omic (NeMO) Data Archive for processing and storing neurological bioinformatics data
       * Developed for and maintained various analyses pipelines
