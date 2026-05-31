@@ -35,7 +35,7 @@ For this page I am going to keep track of various things I am doing, in list for
 
 ### Books I have read
 
-* Jan 18 - Preacher: Book 2 - Garth Ennis and Steve Dillon
+* Jan 18 - Preacher: Book 5 - Garth Ennis and Steve Dillon
   * This one is issues 41-54
 * Feb 1 - The Count of Monte Cristo - Alexandre Dumas
 * Feb 13 - The Maltese Falcon - Dashiell Hammett
@@ -46,6 +46,8 @@ For this page I am going to keep track of various things I am doing, in list for
   * 20 short stories
 * May 12 - The Spy - James Fenimore Cooper
 * May 14 - The End of Everything (Astrophysically Speaking) - Katie Mack
+* May 31 - Preacher: Book 6 - Garth Ennies and Steve Dillon
+  * This one is issues 55-66 and special Tall in the Saddle
 
 ## 2025
 
