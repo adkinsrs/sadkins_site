@@ -34,6 +34,7 @@ For this page I am going to keep track of various things I am doing, in list for
 * May 25 - Post Hero - Playdate
 * June 10 - Fire Emblem Warriors: Three Hopes - Switch
   * Azure Gleam route
+* June 21 - The Remake of the End of the Greatest RPG of All Time - PC
 
 ### Books I have read
 
