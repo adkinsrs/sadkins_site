@@ -52,6 +52,7 @@ For this page I am going to keep track of various things I am doing, in list for
 * May 31 - Preacher: Book 6 - Garth Ennies and Steve Dillon
   * This one is issues 55-66 and special Tall in the Saddle
 * June 21 - The Boys in the Boat: Nine Americans and Their Epic Quest for Gold at the 1936 Berlin Olympics - Daniel James Brown
+* July 17 - What If? 2: Additional Serious Scientific Answers to Absurd Hypothetical Questions - Randall Munroe
 
 ## 2025
 
