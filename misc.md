@@ -54,6 +54,7 @@ For this page I am going to keep track of various things I am doing, in list for
 * June 21 - The Boys in the Boat: Nine Americans and Their Epic Quest for Gold at the 1936 Berlin Olympics - Daniel James Brown
 * July 17 - What If? 2: Additional Serious Scientific Answers to Absurd Hypothetical Questions - Randall Munroe
 * Aug 1 - Kalevala - Elias Lönnrot
+* Aug 3 - The Adventure Zone: Here There Be Gerblins - Clint McElroy, Griffin McElroy, Justin McElroy, Travis McElroy, Carey Pietsch
 
 ## 2025
 
