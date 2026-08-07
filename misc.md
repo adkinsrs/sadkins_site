@@ -35,6 +35,8 @@ For this page I am going to keep track of various things I am doing, in list for
 * June 10 - Fire Emblem Warriors: Three Hopes - Switch
   * Azure Gleam route
 * June 21 - The Remake of the End of the Greatest RPG of All Time - PC
+* Aug 7 - Fire Emblem Warriors: Three Hopes - Switch
+  * Scarlet Blaze route
 
 ### Books I have read
 
