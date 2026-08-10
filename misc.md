@@ -57,6 +57,7 @@ For this page I am going to keep track of various things I am doing, in list for
 * July 17 - What If? 2: Additional Serious Scientific Answers to Absurd Hypothetical Questions - Randall Munroe
 * Aug 1 - Kalevala - Elias Lönnrot
 * Aug 3 - The Adventure Zone: Here There Be Gerblins - Clint McElroy, Griffin McElroy, Justin McElroy, Travis McElroy, Carey Pietsch
+* Aug 10 - The Book of Tea - Okakura Kakuzo
 
 ## 2025
 
