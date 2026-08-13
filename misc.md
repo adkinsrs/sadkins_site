@@ -37,6 +37,7 @@ For this page I am going to keep track of various things I am doing, in list for
 * June 21 - The Remake of the End of the Greatest RPG of All Time - PC
 * Aug 7 - Fire Emblem Warriors: Three Hopes - Switch
   * Scarlet Blaze route
+* Aug 12 - Isles of Sea and Sky - PC
 
 ### Books I have read
 
