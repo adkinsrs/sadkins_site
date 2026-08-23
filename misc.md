@@ -38,6 +38,7 @@ For this page I am going to keep track of various things I am doing, in list for
 * Aug 7 - Fire Emblem Warriors: Three Hopes - Switch
   * Scarlet Blaze route
 * Aug 12 - Isles of Sea and Sky - PC
+* Aug 23 - Strange Antiquities - PC
 
 ### Books I have read
 
