@@ -62,6 +62,7 @@ For this page I am going to keep track of various things I am doing, in list for
 * Aug 1 - Kalevala - Elias Lönnrot
 * Aug 3 - The Adventure Zone: Here There Be Gerblins - Clint McElroy, Griffin McElroy, Justin McElroy, Travis McElroy, Carey Pietsch
 * Aug 10 - The Book of Tea - Okakura Kakuzo
+* Sept 12 - A Farewell to Arms - Ernest Hemingway
 
 ## 2025
 
