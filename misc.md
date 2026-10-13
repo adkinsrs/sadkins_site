@@ -42,6 +42,7 @@ For this page I am going to keep track of various things I am doing, in list for
 * Sept 2 - 1000xResist - PC
 * Sept 11 - walk - PC
 * Sept 15 - Final Fantasy XV Pocket Edition HD - Switch 2
+* Oct 12 - Chance's Lucky Escape - Playdate
 
 ### Books I have read
 
