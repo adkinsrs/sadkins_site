@@ -67,6 +67,9 @@ For this page I am going to keep track of various things I am doing, in list for
 * Sept 12 - A Farewell to Arms - Ernest Hemingway
 * Oct 5 - North Woods: A Novel - Daniel Mason
 * Nov 6 - The Man in the Iron Mask - Alexandre Dumas
+* Nov 11 - Catch-22 - Joseph Heller
+  * Audiobook
+  * I tried listening to this maybe a decade ago, but lost steam and stopped. It was nice to give it another try and see it to completion.
 
 ## 2025
 
