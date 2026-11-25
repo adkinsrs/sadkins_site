@@ -71,6 +71,8 @@ For this page I am going to keep track of various things I am doing, in list for
 * Nov 11 - Catch-22 - Joseph Heller
   * Audiobook
   * I tried listening to this maybe a decade ago, but lost steam and stopped. It was nice to give it another try and see it to completion.
+* Nov 25 - Dungeon Crawler Carl - Matt Dinniman
+  * Audiobook
 
 ## 2025
 
